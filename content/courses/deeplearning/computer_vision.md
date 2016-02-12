@@ -36,6 +36,18 @@ weight: 60
 
 * [Keras: Computer Vision](https://keras.io/examples/vision/)
 
+* [Unofficial Walkthrough of Vision Transformer: Inference](https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook/Vision_Transformer_Tutorial.ipynb)
+
+* [Visual Transformer with Linformer: Fine-Tuning](https://colab.research.google.com/github/lucidrains/vit-pytorch/blob/main/examples/cats_and_dogs.ipynb)
+
+* [Vision Transformer (ViT): Tutorial + Baseline](https://www.kaggle.com/abhinand05/vision-transformer-vit-tutorial-baseline)
+
+* [How the Vision Transformer (ViT) works in 10 minutes](https://theaisummer.com/vision-transformer/)
+
+* [Tutorial: Vision Transformers](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial15/Vision_Transformer.ipynb#scrollTo=kTAwAAJ1HyhD)
+
+{{< youtube 4UyBxlJChfc >}}
+
 ### Extra
 
 * [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)

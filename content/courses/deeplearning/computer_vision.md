@@ -44,7 +44,9 @@ weight: 60
 
 * [How the Vision Transformer (ViT) works in 10 minutes](https://theaisummer.com/vision-transformer/)
 
-* [Tutorial: Vision Transformers](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial15/Vision_Transformer.ipynb#scrollTo=kTAwAAJ1HyhD)
+* [Huggingface Sagemaker - Vision Transformer](https://colab.research.google.com/github/huggingface/notebooks/blob/master/sagemaker/09_image_classification_vision_transformer/sagemaker-notebook.ipynb)
+
+* [Tutorial: Vision Transformers](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial15/Vision_Transformer.ipynb)
 
 {{< youtube 4UyBxlJChfc >}}
 

@@ -34,6 +34,20 @@ weight: 70
 
 * [Keras: Natural Language Processing](https://keras.io/examples/nlp/)
 
+* [Huggingface: Quick tour](https://colab.research.google.com/github/huggingface/notebooks/blob/master/transformers_doc/quicktour.ipynb)
+
+* [Huggingface: Preprocessing data](https://colab.research.google.com/github/huggingface/notebooks/blob/master/transformers_doc/preprocessing.ipynb)
+
+* [Huggingface: Fine-tuning a pretrained model](https://colab.research.google.com/github/huggingface/notebooks/blob/master/transformers_doc/training.ipynb)
+
+* [Huggingface: Fine-tuning with custom datasets](https://colab.research.google.com/github/huggingface/notebooks/blob/master/transformers_doc/custom_datasets.ipynb)
+
+* [Huggingface: Summary of the tokenizers](https://colab.research.google.com/github/huggingface/notebooks/blob/master/transformers_doc/tokenizer_summary.ipynb)
+
+* [Huggingface: Multi-lingual models](https://colab.research.google.com/github/huggingface/notebooks/blob/master/transformers_doc/multilingual.ipynb)
+
+* [Huggingface: Transformers Notebooks](https://github.com/huggingface/transformers/tree/master/notebooks)
+
 ### Extra
 
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)

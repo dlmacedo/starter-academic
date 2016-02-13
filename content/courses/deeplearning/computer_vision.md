@@ -18,7 +18,7 @@ weight: 60
 
 ### Slides
 
-* [Computer Vision]
+* [Computer Vision](https://drive.google.com/file/d/1Gwt1BWfY2qCrJkLB0heNPreSkBcfOVWw/view?usp=sharing)
 
 ### Code
 

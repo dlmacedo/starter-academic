@@ -45,10 +45,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: ai-google-scholar-square
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
 - icon: github

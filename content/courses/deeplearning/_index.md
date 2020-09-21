@@ -49,57 +49,57 @@ menu:
 
 ### PyTorch:
 
-* [What is PyTorch?](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/tensor_tutorial.ipynb)
+* [What is PyTorch?](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/tensor_tutorial.ipynb)
 
-* [Automatic Differentiation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/autograd_tutorial.ipynb)
+* [Automatic Differentiation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/autograd_tutorial.ipynb)
 
-* [Sequential Modules](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/two_layer_net_nn.ipynb)
+* [Sequential Modules](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/two_layer_net_nn.ipynb)
 
-* [Custom Modules](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/two_layer_net_module.ipynb)
+* [Custom Modules](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/two_layer_net_module.ipynb)
 
-* [Optimizer](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/two_layer_net_optim.ipynb)
+* [Optimizer](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/two_layer_net_optim.ipynb)
 
-* [Neural Networks](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/neural_networks_tutorial.ipynb)
+* [Neural Networks](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/neural_networks_tutorial.ipynb)
 
-* [Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
+* [Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
 
-* [Transfer Learning Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/transfer_learning_tutorial.ipynb)
+* [Transfer Learning Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/transfer_learning_tutorial.ipynb)
 
-* [Finetuning Torchvision Models](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/finetuning_torchvision_models_tutorial.ipynb)
+* [Finetuning Torchvision Models](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/finetuning_torchvision_models_tutorial.ipynb)
 
-* [TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
+* [TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
 
-* [Fully-Convolutional Network model with a ResNet-101 backbone](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/pytorch_vision_fcn_resnet101.ipynb)
+* [Fully-Convolutional Network model with a ResNet-101 backbone](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/pytorch_vision_fcn_resnet101.ipynb)
 
-* [Detectron2 Beginner's Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/Detectron2_Tutorial.ipynb)
+* [Detectron2 Beginner's Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Detectron2_Tutorial.ipynb)
 
-* [Time Series Prediction with LSTM Using PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb)
+* [Time Series Prediction with LSTM Using PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb)
 
-* [Sequence Models and Long-Short Term Memory Networks: NLP Part of Speech](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/sequence_models_tutorial.ipynb)
+* [Sequence Models and Long-Short Term Memory Networks: NLP Part of Speech](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/sequence_models_tutorial.ipynb)
 
-* [Transformer Illustration and code](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/Transformer_Illustration_and_code.ipynb)
+* [Transformer Illustration and code](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Transformer_Illustration_and_code.ipynb)
 
-* [nn.Transformer Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/transformer_tutorial.ipynb)
+* [nn.Transformer Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/transformer_tutorial.ipynb)
 
-* [Object Detection with DETR - a minimal implementation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/detr_demo.ipynb)
+* [Object Detection with DETR - a minimal implementation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/detr_demo.ipynb)
 
-* [DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/pytorch/dcgan_faces_tutorial.ipynb)
+* [DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/dcgan_faces_tutorial.ipynb)
 
 ### TensorFlow:
 
-* [TensorFlow 2.X: Basic](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/tensorflow/TF_2_0.ipynb)
+* [TensorFlow 2.X: Basic](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TF_2_0.ipynb)
 
-* [TensorFlow 2.X + Keras Overview for Deep Learning Researchers](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/tensorflow/TensorFlow_2_0_%2B_Keras_Crash_Course.ipynb)
+* [TensorFlow 2.X + Keras Overview for Deep Learning Researchers](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TensorFlow_2_0_%2B_Keras_Crash_Course.ipynb)
 
-* [Get started with TensorFlow 2.X for beginners](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/tensorflow/beginner.ipynb)
+* [Get started with TensorFlow 2.X for beginners](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/beginner.ipynb)
 
-* [Get started with TensorFlow 2.X for experts](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/tensorflow/advanced.ipynb)
+* [Get started with TensorFlow 2.X for experts](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/advanced.ipynb)
 
-* [Eager Execution](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/tensorflow/eager.ipynb)
+* [Eager Execution](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/eager.ipynb)
 
-* [Image classification](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/tensorflow/classification.ipynb)
+* [Image classification](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/classification.ipynb)
 
-* [TensorFlow Hub with Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/notebooks/tensorflow/hub_with_keras.ipynb)
+* [TensorFlow Hub with Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/hub_with_keras.ipynb)
 
 ### More:
 

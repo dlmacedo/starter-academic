@@ -1,6 +1,6 @@
 ---
-title: Convolutional Neural Networks
-linktitle: Convolutional Neural Networks
+title: Self-Supervision and Advanced Topics
+linktitle: Self-Supervision and Advanced Topics
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"

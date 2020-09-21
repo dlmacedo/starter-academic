@@ -68,6 +68,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/David_Macedo7
+- icon: dbpl
+  icon_pack: ai
+  link: https://dblp.org/pid/228/1710.html
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -25,9 +25,9 @@ menu:
 [test notebook](content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
 [test notebook](courses/deeplearning/example1.md)
 [test notebook](courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
-[test notebook](example1.md)
+[test notebook](example1)
 [test notebook](notebooks/pytorch/cifar10_tutorial.ipynb)
-[test notebook](./example1.md)
+[test notebook](example1.md)
 [test notebook](./notebooks/pytorch/cifar10_tutorial.ipynb)
 
 ## Flexibility

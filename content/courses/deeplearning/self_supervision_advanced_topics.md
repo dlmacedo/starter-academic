@@ -14,9 +14,9 @@ menu:
 weight: 9
 ---
 
-## Notebooks
+## Code
 
-[CIFAR10 Tutorial](https://githubtocolab.com/dlmacedo/deep-learning-course/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
+To be uploaded after presential lecture.
 
 ## Slides
 

@@ -14,9 +14,11 @@ menu:
 weight: 7
 ---
 
-## Notebooks
+## Code
 
-[CIFAR10 Tutorial](https://githubtocolab.com/dlmacedo/deep-learning-course/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
+* [HuggingFace Datasets library - Quick overview](https://githubtocolab.com/huggingface/datasets/blob/master/notebooks/Overview.ipynb)
+
+* [Transformers Notebooks](https://githubtocolab.com/huggingface/transformers/tree/master/notebooks)
 
 ## Slides
 

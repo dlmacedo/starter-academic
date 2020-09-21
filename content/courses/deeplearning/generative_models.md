@@ -14,9 +14,9 @@ menu:
 weight: 8
 ---
 
-## Notebooks
+## Code
 
-[CIFAR10 Tutorial](https://githubtocolab.com/dlmacedo/deep-learning-course/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
+* [PyTorch: DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/dcgan_faces_tutorial.ipynb)
 
 ## Slides
 

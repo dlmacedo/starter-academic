@@ -14,9 +14,17 @@ menu:
 weight: 4
 ---
 
-## Notebooks
+## Code
 
-[CIFAR10 Tutorial](https://githubtocolab.com/dlmacedo/deep-learning-course/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
+* [PyTorch: TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
+
+* [PyTorch: Fully-Convolutional Network model with a ResNet-101 backbone](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/pytorch_vision_fcn_resnet101.ipynb)
+
+* [PyTorch: Detectron2 Beginner's Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Detectron2_Tutorial.ipynb)
+
+* [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
+
+* [Roboflow Computer Vision Model Library](https://models.roboflow.com)
 
 ## Slides
 

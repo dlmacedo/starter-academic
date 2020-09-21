@@ -21,9 +21,7 @@ menu:
     weight: 1
 ---
 
-[test notebook](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
-
-[test notebook](https://githubtocolab.com/dlmacedo/deep-learning-course/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
+# Course Content
 
 [PyTorch](pytorch)
 
@@ -45,71 +43,13 @@ menu:
 
 [Limitations and Challenges](limitations_challenges)
 
-## Notebooks
+# Extra Resources
 
-### PyTorch:
+## Development
 
-* [What is PyTorch?](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/tensor_tutorial.ipynb)
+* **[VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)**
 
-* [Automatic Differentiation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/autograd_tutorial.ipynb)
-
-* [Sequential Modules](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/two_layer_net_nn.ipynb)
-
-* [Custom Modules](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/two_layer_net_module.ipynb)
-
-* [Optimizer](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/two_layer_net_optim.ipynb)
-
-* [Neural Networks](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/neural_networks_tutorial.ipynb)
-
-* [Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
-
-* [Transfer Learning Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/transfer_learning_tutorial.ipynb)
-
-* [Finetuning Torchvision Models](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/finetuning_torchvision_models_tutorial.ipynb)
-
-* [TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
-
-* [Fully-Convolutional Network model with a ResNet-101 backbone](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/pytorch_vision_fcn_resnet101.ipynb)
-
-* [Detectron2 Beginner's Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Detectron2_Tutorial.ipynb)
-
-* [Time Series Prediction with LSTM Using PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb)
-
-* [Sequence Models and Long-Short Term Memory Networks: NLP Part of Speech](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/sequence_models_tutorial.ipynb)
-
-* [Transformer Illustration and code](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Transformer_Illustration_and_code.ipynb)
-
-* [nn.Transformer Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/transformer_tutorial.ipynb)
-
-* [Object Detection with DETR - a minimal implementation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/detr_demo.ipynb)
-
-* [DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/dcgan_faces_tutorial.ipynb)
-
-### TensorFlow:
-
-* [TensorFlow 2.X: Basic](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TF_2_0.ipynb)
-
-* [TensorFlow 2.X + Keras Overview for Deep Learning Researchers](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TensorFlow_2_0_%2B_Keras_Crash_Course.ipynb)
-
-* [Get started with TensorFlow 2.X for beginners](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/beginner.ipynb)
-
-* [Get started with TensorFlow 2.X for experts](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/advanced.ipynb)
-
-* [Eager Execution](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/eager.ipynb)
-
-* [Image classification](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/classification.ipynb)
-
-* [TensorFlow Hub with Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/hub_with_keras.ipynb)
-
-### More:
-
-* [HuggingFace Datasets library - Quick overview](https://githubtocolab.com/huggingface/datasets/blob/master/notebooks/Overview.ipynb)
-
-* [Transformers Notebooks](https://githubtocolab.com/huggingface/transformers/tree/master/notebooks)
-
-* [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
-
-* [Roboflow Computer Vision Model Library](https://models.roboflow.com)
+* **[VS Code on Google Colab](https://amitness.com/vscode-on-colab)**
 
 ## Frameworks
 
@@ -149,12 +89,6 @@ menu:
 
 * [Keras style model.summary() in PyTorch](https://githubtocolab.com/sksq96/pytorch-summary)
 
-## Development
-
-* [VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
-
-* [VS Code on Google Colab](https://amitness.com/vscode-on-colab)
-
 ## Papers and Codes
 
 * [arXiv](https://arxiv.org)
@@ -176,56 +110,3 @@ menu:
 * [Deep Learning Papers Reading Roadmap](https://githubtocolab.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 * [Awesome: Most Cited Deep Learning Papers](https://githubtocolab.com/terryum/awesome-deep-learning-papers)
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Flexibility
-
-This feature can be used for publishing content such as:
-
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
-
-## Delete tutorials
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
-

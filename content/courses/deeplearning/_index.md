@@ -5,7 +5,7 @@ summary: Learn how Deep Learning is changing our world!
 weight: 1
 
 # Page metadata.
-title: Course Content
+title: Curse Overview
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Course Content
+    name: Curse Overview
     weight: 1
 ---
 

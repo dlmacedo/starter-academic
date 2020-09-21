@@ -25,6 +25,8 @@ menu:
 
 [test notebook](https://githubtocolab.com/dlmacedo/deep-learning-course/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
 
+[Convolutional Neural Networks](convolutional_neural_networks)
+
 ## Flexibility
 
 This feature can be used for publishing content such as:

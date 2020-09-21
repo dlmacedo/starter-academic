@@ -23,25 +23,25 @@ menu:
 
 ## Course Content
 
-1. [PyTorch](pytorch)
+1. **[PyTorch](pytorch)**
 
-2. [TensorFlow](tensorflow)
+2. **[TensorFlow](tensorflow)**
 
-3. [Convolutional Neural Networks](convolutional_neural_networks)
+3. **[Convolutional Neural Networks](convolutional_neural_networks)**
 
-4. [Computer Vision](computer_vision)
+4. **[Computer Vision](computer_vision)**
 
-5. [Recurrent Neural Networks](recurrent_neural_networks)
+5. **[Recurrent Neural Networks](recurrent_neural_networks)**
 
-6. [Attention and Transformers](attention_transformers)
+6. **[Attention and Transformers](attention_transformers)**
 
-7. [Natural Language Procession](natural_language_processing)
+7. **[Natural Language Procession](natural_language_processing)**
 
-8. [Generative Models](generative_models)
+8. **[Generative Models](generative_models)**
 
-9. [Self-Supervision and Advanced Topics](self_supervision_advanced_topics)
+9. **[Self-Supervision and Advanced Topics](self_supervision_advanced_topics)**
 
-10. [Limitations and Challenges](limitations_challenges)
+10. **[Limitations and Challenges](limitations_challenges)**
 
 ## Extra Resources
 

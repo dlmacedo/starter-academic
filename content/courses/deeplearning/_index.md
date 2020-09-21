@@ -110,3 +110,5 @@ menu:
 * [Deep Learning Papers Reading Roadmap](https://githubtocolab.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 * [Awesome: Most Cited Deep Learning Papers](https://githubtocolab.com/terryum/awesome-deep-learning-papers)
+
+**Github repository: [https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic).**

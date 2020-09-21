@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
+linktitle: Deep Learning Course
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
@@ -20,6 +20,8 @@ menu:
     name: Overview
     weight: 1
 ---
+
+[test notebook](course/deeplearning/notebooks/pytorh/cifar10_tutorial.ipynb)
 
 ## Flexibility
 

@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Course Content
-    weight: 1
+    weight: 10
 ---
 
 [test notebook](https://github.com/dlmacedo/deep-learning-class/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)

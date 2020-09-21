@@ -18,7 +18,7 @@ organizations:
   url: "https://mila.quebec/en/person/david-macedo/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning and related areas.
 
 interests:
 - Deep Learning
@@ -27,7 +27,7 @@ interests:
 - Speech Processing
 - Trustworthy AI
 
-#education:
+# education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
@@ -74,8 +74,6 @@ user_groups:
 
 Visiting Researcher at Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. Computer Science Professor at Nova Roma Faculty, Pernambuco, Brazil. Authored approximately twenty deep learning papers published in international peer-reviewed journals and conferences. IEEE Journals Reviewer.
 
-#First Place in both Admission Processes for Master of Science (2016) and Doctor of Philosophy (2018) in Computer Science at CIn/UFPE, Brazil. Computer Science Master [GPA 4.00/4.00] and Ph.D. Candidate [GPA 4.00/4.00]. Electronic Engineering Bachelor with Highest Academic Distinction (Best Overall Student) [GPA 3.75/4.00 | 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process (1992). Participation in Research and Extension Projects. Co-orientation of Master's Thesis. Microsoft Research Awards. Teaching Internship. Main Deep Learning research areas are Computer Vision, Natural Language Processing, Speech Processing, and Trustworthy Artificial Intelligence.
+# First Place in both Admission Processes for Master of Science (2016) and Doctor of Philosophy (2018) in Computer Science at CIn/UFPE, Brazil. Computer Science Master [GPA 4.00/4.00] and Ph.D. Candidate [GPA 4.00/4.00]. Electronic Engineering Bachelor with Highest Academic Distinction (Best Overall Student) [GPA 3.75/4.00 | 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process (1992). Participation in Research and Extension Projects. Co-orientation of Master's Thesis. Microsoft Research Awards. Teaching Internship. Main Deep Learning research areas are Computer Vision, Natural Language Processing, Speech Processing, and Trustworthy Artificial Intelligence.
 
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. #He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu #pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

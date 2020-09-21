@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-[test notebook](notebooks/pytorch/cifar10_tutorial.ipynb)
+[test notebook](https://dlmacedo.com/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
 
 ## Flexibility
 

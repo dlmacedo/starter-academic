@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Macêdo
+title: David MacêdoX
 
 # Username (this should match the folder name)
 authors:

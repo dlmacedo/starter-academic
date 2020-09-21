@@ -52,16 +52,26 @@ subtitle = ""
 
 Welcome to our **Deep Learning Course**!!!
 
-Follow the [Deep Learning Course](https://sourcethemes.com/academic/docs/get-started/) for notebooks and resource links.
+Follow the [Deep Learning Course](courses/deeplearning/) for code, slides, and additional resorces.
 
 This is the syllabus for the 2020 iteration of the course:
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+- [PyTorch](courses/deeplearning/pytorch)
+
+- [TensorFlow](courses/deeplearning/tensorflow)
+
+- [Convolutional Neural Networks](courses/deeplearning/convolutional_neural_networks)
+
+- [Computer Vision](courses/deeplearning/computer_vision)
+
+- [Recurrent Neural Networks](courses/deeplearning/recurrent_neural_networks)
+
+- [Attention and Transformers](courses/deeplearning/attention_transformers)
+
+- [Natural Language Procession](courses/deeplearning/natural_language_processing)
+
+- [Generative Models](courses/deeplearning/generative_models)
+
+- [Self-Supervision and Advanced Topics](courses/deeplearning/self_supervision_advanced_topics)
+
+- [Limitations and Challenges](courses/deeplearning/limitations_challenges)

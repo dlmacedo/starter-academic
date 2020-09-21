@@ -56,6 +56,18 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dlmacedo
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/4271819510740061
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3044411/david-macedo/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2527-4548
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/David_Macedo7
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -8,10 +8,10 @@ draft: false
 menu:
   example:
     parent: Course Content
-    weight: 3
+    weight: 8
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 8
 ---
 
 ## Notebooks

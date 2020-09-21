@@ -68,6 +68,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/David_Macedo7
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/228/1710.html

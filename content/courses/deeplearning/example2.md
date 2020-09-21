@@ -1,5 +1,5 @@
 ---
-title: Example Page 2
+title: Recurrent Neural Networks
 linktitle: Tips 3-4
 toc: true
 type: docs

@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-# Course Content
+## Course Content
 
 [PyTorch](pytorch)
 
@@ -43,15 +43,15 @@ menu:
 
 [Limitations and Challenges](limitations_challenges)
 
-# Extra Resources
+## Extra Resources
 
-## Development
+### Development
 
 * **[VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)**
 
 * **[VS Code on Google Colab](https://amitness.com/vscode-on-colab)**
 
-## Frameworks
+### Frameworks
 
 * [PyTorch](https://pytorch.org)
 
@@ -67,7 +67,7 @@ menu:
 
 * [Sentence Transformers](https://githubtocolab.com/UKPLab/sentence-transformers)
 
-## Learn
+### Learn
 
 * [Dive into Deep Learning](https://d2l.ai)
 
@@ -77,7 +77,7 @@ menu:
 
 * [TensorFlow Learn](https://www.tensorflow.org/learn)
 
-## Tools
+### Tools
 
 * [Open Neural Network Exchange](https://onnx.ai)
 
@@ -89,7 +89,7 @@ menu:
 
 * [Keras style model.summary() in PyTorch](https://githubtocolab.com/sksq96/pytorch-summary)
 
-## Papers and Codes
+### Papers and Codes
 
 * [arXiv](https://arxiv.org)
 

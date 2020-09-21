@@ -22,7 +22,7 @@ menu:
 ---
 
 [test notebook](https://github.com/dlmacedo/deep-learning-class/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
-[test notebook](https://githubtocolab.com/dlmacedo/deep-learning-class/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
+[test notebook](https://githubtocolab.com/dlmacedo/deep-learning-course/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
 [test notebook](courses/deeplearning/example1.md)
 [test notebook](courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
 [test notebook](example1)

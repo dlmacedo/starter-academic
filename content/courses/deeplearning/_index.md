@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-[test notebook](course/deeplearning/notebooks/pytorh/cifar10_tutorial.ipynb)
+[test notebook](notebooks/pytorh/cifar10_tutorial.ipynb)
 
 ## Flexibility
 

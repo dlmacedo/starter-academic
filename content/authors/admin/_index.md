@@ -46,7 +46,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:dlm@cin.ufpe.br".
+  link: "mailto:dlm@cin.ufpe.br"  # For a direct email link, use "mailto:dlm@cin.ufpe.br".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/david_macedo

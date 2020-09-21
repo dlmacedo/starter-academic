@@ -21,8 +21,8 @@ menu:
     weight: 1
 ---
 
-[test notebook](content/courses/deeplearning/example1.md)
-[test notebook](content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
+[test notebook](https://github.com/dlmacedo/deep-learning-class/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
+[test notebook](https://githubtocolab.com/dlmacedo/deep-learning-class/blob/master/notebooks/pytorch/cifar10_tutorial.ipynb)
 [test notebook](courses/deeplearning/example1.md)
 [test notebook](courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
 [test notebook](example1)

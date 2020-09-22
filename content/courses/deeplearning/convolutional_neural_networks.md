@@ -18,7 +18,7 @@ weight: 3
 
 ![foo](deeplearningcourse.jpeg)
 
-[![foo](deeplearningcourse.jpeg)](https://www.google.com)
+[![foo]({{< figure library="true" src="deeplearningcourse.jpeg" title="Booo22222ooooooooooooo" >}})](https://www.google.com)
 
 [<img src="convolutional_neural_networks_tn.jpg">](http://google.com.au/)
 

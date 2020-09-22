@@ -7,7 +7,7 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Course Content
+    parent: Main Course
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -16,7 +16,7 @@ weight: 3
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-## Code
+# Code
 
 * [PyTorch: Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
 
@@ -28,6 +28,6 @@ weight: 3
 
 * [TensorFlow Hub with Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/hub_with_keras.ipynb)
 
-## Slides
+# Slides
 
 To be uploaded after the presential lecture.

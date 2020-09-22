@@ -7,7 +7,7 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Course Content
+    parent: Main Course
     weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -16,7 +16,7 @@ weight: 6
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-## Code
+# Code
 
 * [PyTorch: Transformer Illustration and code](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Transformer_Illustration_and_code.ipynb)
 
@@ -24,6 +24,6 @@ weight: 6
 
 * [PyTorch: Object Detection with DETR - a minimal implementation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/detr_demo.ipynb)
 
-## Slides
+# Slides
 
 To be uploaded after the presential lecture.

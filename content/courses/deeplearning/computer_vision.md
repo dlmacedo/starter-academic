@@ -7,7 +7,7 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Course Content
+    parent: Main Course
     weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -16,7 +16,7 @@ weight: 4
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-## Code
+# Code
 
 * [PyTorch: TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
 
@@ -28,6 +28,6 @@ weight: 4
 
 * [Roboflow Computer Vision Model Library](https://models.roboflow.com)
 
-## Slides
+# Slides
 
 To be uploaded after the presential lecture.

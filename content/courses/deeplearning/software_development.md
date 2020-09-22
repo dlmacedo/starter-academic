@@ -8,12 +8,16 @@ draft: false
 menu:
   example:
     parent: Additional Resources
-    weight: 4
+    weight: 14
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 14
 ---
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-## Links
+# links
+
+* [VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
+
+* [VS Code on Google Colab](https://amitness.com/vscode-on-colab)

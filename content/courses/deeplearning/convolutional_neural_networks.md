@@ -16,6 +16,8 @@ weight: 3
 
 [![foo](convolutional_neural_networks_tn.jpg)](https://www.google.com)
 
+[<img src="convolutional_neural_networks_tn.jpg">](http://google.com.au/)
+
 ## Code
 
 * [PyTorch: Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)

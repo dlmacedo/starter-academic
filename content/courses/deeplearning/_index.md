@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-{{< youtube v=e2_hsjpTi4w >}}
+{{< youtube e2_hsjpTi4w >}}
 
 ### Course Content
 

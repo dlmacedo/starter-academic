@@ -49,6 +49,16 @@ menu:
 **Follow the [Github repository](https://github.com/dlmacedo/starter-academic) to be notified when we release (usually annually) an updated version of this course. On the repository page, click on "Watch" and next on "Releases only."**
 {{% /alert %}}
 
+## Additional Resources
+
+* [Learn More](learn_more)
+
+* [Papers and Codes](papers_and_codes)
+
+* [Software Libraries](software_libraries)
+
+* [Software Development](software_development)
+
 ### Learn More
 
 * [Dive into Deep Learning](https://d2l.ai)
@@ -56,8 +66,6 @@ menu:
 * [Deep Learning Book](https://www.deeplearningbook.org)
 
 * [Fast AI (PyTorch)](https://www.fast.ai)
-
-## Additional Resources
 
 ### Papers and Codes
 

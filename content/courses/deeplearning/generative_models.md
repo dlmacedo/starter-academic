@@ -22,4 +22,4 @@ weight: 8
 
 ## Slides
 
-To be uploaded after presential lecture.
+To be uploaded after the presential lecture.

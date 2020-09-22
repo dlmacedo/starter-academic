@@ -25,72 +25,36 @@ menu:
 
 ### Course Content
 
-1. **[PyTorch](pytorch)**
+1. [PyTorch](pytorch)
 
-2. **[TensorFlow](tensorflow)**
+2. [TensorFlow](tensorflow)
 
-3. **[Convolutional Neural Networks](convolutional_neural_networks)**
+3. [Convolutional Neural Networks](convolutional_neural_networks)
 
-4. **[Computer Vision](computer_vision)**
+4. [Computer Vision](computer_vision)
 
-5. **[Recurrent Neural Networks](recurrent_neural_networks)**
+5. [Recurrent Neural Networks](recurrent_neural_networks)
 
-6. **[Attention and Transformers](attention_transformers)**
+6. [Attention and Transformers](attention_transformers)
 
-7. **[Natural Language Procession](natural_language_processing)**
+7. [Natural Language Procession](natural_language_processing)
 
-8. **[Generative Models](generative_models)**
+8. [Generative Models](generative_models)
 
-9. **[Self-Supervision and Advanced Topics](self_supervision_advanced_topics)**
+9. [Self-Supervision and Advanced Topics](self_supervision_advanced_topics)
 
-10. **[Limitations and Challenges](limitations_challenges)**
+10. [Limitations and Challenges](limitations_challenges)
 
 **For notification of updates, follow the Github repository:**
 **[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
-
-### Development
-
-* [VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
-
-* [VS Code on Google Colab](https://amitness.com/vscode-on-colab)
-
-### Frameworks
-
-* [PyTorch](https://pytorch.org)
-
-* [Pytorch Lightning](https://githubtocolab.com/PyTorchLightning/pytorch-lightning)
-
-* [Keras](https://keras.io)
-
-* [TensorFlow](https://www.tensorflow.org)
-
-* [Huggingface Transformers](https://githubtocolab.com/huggingface/transformers)
-
-* [Simple Transformers](https://githubtocolab.com/ThilinaRajapakse/simpletransformers)
-
-* [Sentence Transformers](https://githubtocolab.com/UKPLab/sentence-transformers)
 
 ### Learn
 
 * [Dive into Deep Learning](https://d2l.ai)
 
+* [Deep Learning Book](https://https://www.deeplearningbook.org)
+
 * [Fast AI (PyTorch)](https://www.fast.ai)
-
-* [PyTorch Tutorials](https://pytorch.org/tutorials)
-
-* [TensorFlow Learn](https://www.tensorflow.org/learn)
-
-### Tools
-
-* [Open Neural Network Exchange](https://onnx.ai)
-
-* [Weights and Biases](https://www.wandb.com)
-
-* [Netron: Model Viewer](https://githubtocolab.com/lutzroeder/netron)
-
-* [PyTorchViz: Model Visualizer](https://githubtocolab.com/szagoruyko/pytorchviz)
-
-* [Keras style model.summary() in PyTorch](https://githubtocolab.com/sksq96/pytorch-summary)
 
 ### Papers and Codes
 
@@ -113,3 +77,37 @@ menu:
 * [Deep Learning Papers Reading Roadmap](https://githubtocolab.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 * [Awesome: Most Cited Deep Learning Papers](https://githubtocolab.com/terryum/awesome-deep-learning-papers)
+
+### Frameworks
+
+* [PyTorch](https://pytorch.org)
+
+* [Pytorch Lightning](https://githubtocolab.com/PyTorchLightning/pytorch-lightning)
+
+* [Keras](https://keras.io)
+
+* [TensorFlow](https://www.tensorflow.org)
+
+* [Huggingface Transformers](https://githubtocolab.com/huggingface/transformers)
+
+* [Simple Transformers](https://githubtocolab.com/ThilinaRajapakse/simpletransformers)
+
+* [Sentence Transformers](https://githubtocolab.com/UKPLab/sentence-transformers)
+
+### Tools
+
+* [Open Neural Network Exchange](https://onnx.ai)
+
+* [Weights and Biases](https://www.wandb.com)
+
+* [Netron: Model Viewer](https://githubtocolab.com/lutzroeder/netron)
+
+* [PyTorchViz: Model Visualizer](https://githubtocolab.com/szagoruyko/pytorchviz)
+
+* [Keras style model.summary() in PyTorch](https://githubtocolab.com/sksq96/pytorch-summary)
+
+### Development
+
+* [VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
+
+* [VS Code on Google Colab](https://amitness.com/vscode-on-colab)

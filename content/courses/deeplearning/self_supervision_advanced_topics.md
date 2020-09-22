@@ -18,8 +18,8 @@ weight: 9
 
 ## Code
 
-To be uploaded after presential lecture.
+To be uploaded after the presential lecture.
 
 ## Slides
 
-To be uploaded after presential lecture.
+To be uploaded after the presential lecture.

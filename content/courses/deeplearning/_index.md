@@ -21,15 +21,7 @@ menu:
     weight: 1
 ---
 
-[normal](https://1drv.ms/p/s!AhI6-9JuTI6zk5pBD4n2r1sTe8ttfw?e=Jb4U0k)
-
-[tete](https://1drv.ms/p/s!AhI6-9JuTI6zk5pmIwraG1HgDyUyIQ?e=rHh6zK)
-
-[pdf](https://1drv.ms/b/s!AhI6-9JuTI6zk5poLxgQ_rtTfuXWBw?e=99sXSa)
-
-[![foo](/path/to/img.jpg)](http://example.net/)
-
-
+{{< youtube v=e2_hsjpTi4w >}}
 
 ### Course Content
 

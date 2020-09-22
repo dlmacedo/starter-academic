@@ -14,6 +14,8 @@ menu:
 weight: 3
 ---
 
+[![foo](convolutional_neural_networks.jpg)](google.com)
+
 ## Code
 
 * [PyTorch: Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)

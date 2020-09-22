@@ -46,7 +46,6 @@ menu:
 10. **[Limitations and Challenges](limitations_challenges)**
 
 **For notification of updates, follow the Github repository:**
-
 **[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
 
 ### Development

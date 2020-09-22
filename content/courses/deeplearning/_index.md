@@ -5,7 +5,7 @@ summary: Learn how Deep Learning is changing our world!
 weight: 1
 
 # Page metadata.
-title: Curse Overview
+title: Dee Learning 2020
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Curse Overview
+    name: Course Content
     weight: 1
 ---
 
@@ -25,27 +25,25 @@ menu:
 
 ### Course Content
 
-1. [PyTorch](pytorch)
+1. **[PyTorch](pytorch)**
 
-2. [TensorFlow](tensorflow)
+2. **[TensorFlow](tensorflow)**
 
-3. [Convolutional Neural Networks](convolutional_neural_networks)
+3. **[Convolutional Neural Networks](convolutional_neural_networks)**
 
-4. [Computer Vision](computer_vision)
+4. **[Computer Vision](computer_vision)**
 
-5. [Recurrent Neural Networks](recurrent_neural_networks)
+5. **[Recurrent Neural Networks](recurrent_neural_networks)**
 
-6. [Attention and Transformers](attention_transformers)
+6. **[Attention and Transformers](attention_transformers)**
 
-7. [Natural Language Procession](natural_language_processing)
+7. **[Natural Language Procession](natural_language_processing)**
 
-8. [Generative Models](generative_models)
+8. **[Generative Models](generative_models)**
 
-9. [Self-Supervision and Advanced Topics](self_supervision_advanced_topics)
+9. **[Self-Supervision and Advanced Topics](self_supervision_advanced_topics)**
 
-10. [Limitations and Challenges](limitations_challenges)
-
-## Additional Resources
+10. **[Limitations and Challenges](limitations_challenges)**
 
 ### Development
 
@@ -113,4 +111,4 @@ menu:
 
 * [Awesome: Most Cited Deep Learning Papers](https://githubtocolab.com/terryum/awesome-deep-learning-papers)
 
-**Github repository: [https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic).**
+**For notification of updates, follow the Github repository ([https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)).**

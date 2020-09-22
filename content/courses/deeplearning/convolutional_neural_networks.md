@@ -14,9 +14,15 @@ menu:
 weight: 3
 ---
 
+![foo](convolutional_neural_networks_tn.jpg)
+
 [![foo](convolutional_neural_networks_tn.jpg)](https://www.google.com)
 
 [<img src="convolutional_neural_networks_tn.jpg">](http://google.com.au/)
+
+[![homepage][1]][2]
+[1]:  convolutional_neural_networks_tn.jpg
+[2]:  https://www.google.com "Redirect to homepage"
 
 ## Code
 

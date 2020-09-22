@@ -14,7 +14,7 @@ menu:
 weight: 3
 ---
 
-[![foo](convolutional_neural_networks.jpg =250x)](google.com)
+[![foo](convolutional_neural_networks.jpg)](https://www.google.com)
 
 ## Code
 

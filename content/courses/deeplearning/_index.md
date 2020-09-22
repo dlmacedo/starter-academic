@@ -27,6 +27,10 @@ menu:
 
 [pdf](https://1drv.ms/b/s!AhI6-9JuTI6zk5poLxgQ_rtTfuXWBw?e=99sXSa)
 
+[![foo](/path/to/img.jpg)](http://example.net/)
+
+
+
 ### Course Content
 
 1. [PyTorch](pytorch)

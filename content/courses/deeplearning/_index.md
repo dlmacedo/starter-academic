@@ -25,6 +25,8 @@ menu:
 
 [tete](https://1drv.ms/p/s!AhI6-9JuTI6zk5pmIwraG1HgDyUyIQ?e=rHh6zK)
 
+[pdf](https://1drv.ms/b/s!AhI6-9JuTI6zk5poLxgQ_rtTfuXWBw?e=99sXSa)
+
 ### Course Content
 
 1. [PyTorch](pytorch)

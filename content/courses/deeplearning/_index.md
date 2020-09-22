@@ -48,7 +48,7 @@ menu:
 **For notification of updates, follow the Github repository:**
 **[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
 
-### Learn
+### Learn More
 
 * [Dive into Deep Learning](https://d2l.ai)
 
@@ -78,7 +78,7 @@ menu:
 
 * [Awesome: Most Cited Deep Learning Papers](https://githubtocolab.com/terryum/awesome-deep-learning-papers)
 
-### Frameworks
+### Main Frameworks
 
 * [PyTorch](https://pytorch.org)
 
@@ -94,7 +94,7 @@ menu:
 
 * [Sentence Transformers](https://githubtocolab.com/UKPLab/sentence-transformers)
 
-### Tools
+### Coding Tools
 
 * [Open Neural Network Exchange](https://onnx.ai)
 
@@ -106,7 +106,7 @@ menu:
 
 * [Keras style model.summary() in PyTorch](https://githubtocolab.com/sksq96/pytorch-summary)
 
-### Development
+### Software Development
 
 * [VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
 

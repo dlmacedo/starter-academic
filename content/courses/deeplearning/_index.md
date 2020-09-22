@@ -45,6 +45,15 @@ menu:
 
 10. [Limitations and Challenges](limitations_challenges)
 
+{{% alert note %}}
+**Follow the Github repository to be notified when we release an update version of this course:**
+**[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
+Follow the Github repository to be notified when we release an update version of this course:
+[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)
+This homepage section is an example of adding elements to the Blank widget.
+Backgrounds can be applied to any section. Here, the background option is set give an image parallax effect.
+{{% /alert %}}
+
 **Follow the Github repository to be notified when we release an update version of this course:**
 **[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
 

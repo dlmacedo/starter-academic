@@ -14,6 +14,8 @@ menu:
 weight: 1
 ---
 
+{{< figure library="true" src="deeplearningcourse.jpeg" >}}
+
 ## Code
 
 * [What is PyTorch?](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/tensor_tutorial.ipynb)

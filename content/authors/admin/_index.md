@@ -14,7 +14,7 @@ role: Professor of Deep Learning
 
 # Organizations/Affiliations
 organizations:
-- name: MILA Visiting Reseacher
+- name: Visiting Researcher with MILA
   url: "https://mila.quebec/en/person/david-macedo/"
 
 # Short bio (displayed in user profile at end of posts)

@@ -14,11 +14,11 @@ menu:
 weight: 3
 ---
 
-{{< figure src="convolutional_neural_networks_tn" title="Boo" >}}
+{{< figure library="true" src="deeplearningcourse.jpeg" title="Boo" >}}
 
-![foo](convolutional_neural_networks_tn.jpg)
+![foo](deeplearningcourse.jpeg)
 
-[![foo](convolutional_neural_networks_tn.jpg)](https://www.google.com)
+[![foo](deeplearningcourse.jpeg)](https://www.google.com)
 
 [<img src="convolutional_neural_networks_tn.jpg">](http://google.com.au/)
 

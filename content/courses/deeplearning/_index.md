@@ -15,10 +15,10 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-# menu:
-#   example:
-#     name: Course
-#     weight: 1
+menu:
+  example:
+    name: Deep Learning Course
+    weight: 1
 ---
 
 {{< youtube e2_hsjpTi4w >}}

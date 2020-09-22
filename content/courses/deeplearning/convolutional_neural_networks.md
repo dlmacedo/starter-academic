@@ -14,7 +14,7 @@ menu:
 weight: 3
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" title="Boooooooooooooooo" >}}
+{{< figure library="true" src="deeplearningcourse.jpeg" title="Boooooooooooooooo" href="http://www.google.com">}}
 
 ![foo](deeplearningcourse.jpeg)
 

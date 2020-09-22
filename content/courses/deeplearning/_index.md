@@ -23,11 +23,7 @@ menu:
 
 {{< youtube e2_hsjpTi4w >}}
 
-Bora!!!
-
 ## Main Course
-
-Puts!!! Puts!!!
 
 1. [PyTorch](pytorch)
 

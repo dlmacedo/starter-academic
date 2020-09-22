@@ -15,15 +15,15 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  example:
-    name: Deep Learning Course
-    weight: 1
+# menu:
+#   example:
+#     name: Deep Learning Course
+#     weight: 1
 ---
 
 {{< youtube e2_hsjpTi4w >}}
 
-# Main Course
+## Main Course
 
 1. [PyTorch](pytorch)
 
@@ -49,7 +49,7 @@ menu:
 **Follow the [Github repository](https://github.com/dlmacedo/starter-academic) to be notified when we release (usually annually) an updated version of this course. On the repository page, click on "Watch" and next on "Releases only."**
 {{% /alert %}}
 
-# Additional Resources
+## Additional Resources
 
 * [Learn More](learn_more)
 

@@ -45,6 +45,9 @@ menu:
 
 10. **[Limitations and Challenges](limitations_challenges)**
 
+**For notification of updates, follow the Github repository:**
+**[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
+
 ### Development
 
 * [VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
@@ -110,5 +113,3 @@ menu:
 * [Deep Learning Papers Reading Roadmap](https://githubtocolab.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 * [Awesome: Most Cited Deep Learning Papers](https://githubtocolab.com/terryum/awesome-deep-learning-papers)
-
-**For notification of updates, follow the Github repository ([https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)).**

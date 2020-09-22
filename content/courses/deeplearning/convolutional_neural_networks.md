@@ -14,6 +14,8 @@ menu:
 weight: 3
 ---
 
+{{< figure src="convolutional_neural_networks_tn.jpg" title="A caption" >}}
+
 ![foo](convolutional_neural_networks_tn.jpg)
 
 [![foo](convolutional_neural_networks_tn.jpg)](https://www.google.com)

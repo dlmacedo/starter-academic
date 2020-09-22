@@ -53,7 +53,7 @@ menu:
 
 * [Dive into Deep Learning](https://d2l.ai)
 
-* [Deep Learning Book](https://https://www.deeplearningbook.org)
+* [Deep Learning Book](https://www.deeplearningbook.org)
 
 * [Fast AI (PyTorch)](https://www.fast.ai)
 
@@ -63,37 +63,37 @@ menu:
 
 * [Paper with Codes](https://paperswithcode.com)
 
-* [Awesome Pytorch List](https://githubtocolab.com/bharathgs/Awesome-pytorch-list)
+* [Awesome Pytorch List](https://github.com/bharathgs/Awesome-pytorch-list)
 
-* [The Incredible Pytorch](https://githubtocolab.com/ritchieng/the-incredible-pytorch)
+* [The Incredible Pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 
-* [TensorFlow Examples](https://githubtocolab.com/aymericdamien/TensorFlow-Examples)
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
-* [Awesome TensorFlow](https://githubtocolab.com/jtoy/awesome-tensorflow)
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 
-* [Deep Learning Papers by task](https://githubtocolab.com/sbrugman/deep-learning-papers)
+* [Deep Learning Papers by task](https://github.com/sbrugman/deep-learning-papers)
 
-* [Awesome Deep Learning](https://githubtocolab.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-* [Deep Learning Papers Reading Roadmap](https://githubtocolab.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
-* [Awesome: Most Cited Deep Learning Papers](https://githubtocolab.com/terryum/awesome-deep-learning-papers)
+* [Awesome: Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ### Main Frameworks
 
 * [PyTorch](https://pytorch.org)
 
-* [Pytorch Lightning](https://githubtocolab.com/PyTorchLightning/pytorch-lightning)
+* [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
 
 * [Keras](https://keras.io)
 
 * [TensorFlow](https://www.tensorflow.org)
 
-* [Huggingface Transformers](https://githubtocolab.com/huggingface/transformers)
+* [Huggingface Transformers](https://github.com/huggingface/transformers)
 
-* [Simple Transformers](https://githubtocolab.com/ThilinaRajapakse/simpletransformers)
+* [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
 
-* [Sentence Transformers](https://githubtocolab.com/UKPLab/sentence-transformers)
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 
 ### Coding Tools
 
@@ -101,11 +101,11 @@ menu:
 
 * [Weights and Biases](https://www.wandb.com)
 
-* [Netron: Model Viewer](https://githubtocolab.com/lutzroeder/netron)
+* [Netron: Model Viewer](https://github.com/lutzroeder/netron)
 
-* [PyTorchViz: Model Visualizer](https://githubtocolab.com/szagoruyko/pytorchviz)
+* [PyTorchViz: Model Visualizer](https://github.com/szagoruyko/pytorchviz)
 
-* [Keras style model.summary() in PyTorch](https://githubtocolab.com/sksq96/pytorch-summary)
+* [Keras style model.summary() in PyTorch](https://github.com/sksq96/pytorch-summary)
 
 ### Software Development
 

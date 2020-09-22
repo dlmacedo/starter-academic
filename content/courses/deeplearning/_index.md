@@ -45,7 +45,7 @@ menu:
 
 10. [Limitations and Challenges](limitations_challenges)
 
-**Follow the Github repository to be notified when we annually release an update version of this course:**
+**Follow the Github repository to be notified when we release an update version of this course:**
 **[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
 
 ### Learn More

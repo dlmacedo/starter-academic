@@ -45,7 +45,7 @@ menu:
 
 10. [Limitations and Challenges](limitations_challenges)
 
-**For notification of updates, follow the Github repository:**
+**Follow the Github repository to be notified when we update this course:**
 **[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
 
 ### Learn More

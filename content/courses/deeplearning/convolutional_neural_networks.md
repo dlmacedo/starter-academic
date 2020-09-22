@@ -14,17 +14,7 @@ menu:
 weight: 3
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" title="Booo22222ooooooooooooo" href="http://www.google.com">}}
-
-![foo](deeplearningcourse.jpeg)
-
-[![foo]({{< figure library="true" src="deeplearningcourse.jpeg" title="Booo22222ooooooooooooo" >}})](https://www.google.com)
-
-[<img src="convolutional_neural_networks_tn.jpg">](http://google.com.au/)
-
-[![homepage][1]][2]
-[1]:  convolutional_neural_networks_tn.jpg
-[2]:  https://www.google.com "Redirect to homepage"
+{{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
 ## Code
 

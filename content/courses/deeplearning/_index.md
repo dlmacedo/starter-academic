@@ -50,9 +50,6 @@ menu:
 **[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
 {{% /alert %}}
 
-**Follow the Github repository to be notified when we release an update version of this course:**
-**[https://github.com/dlmacedo/starter-academic](https://github.com/dlmacedo/starter-academic)**
-
 ### Learn More
 
 * [Dive into Deep Learning](https://d2l.ai)

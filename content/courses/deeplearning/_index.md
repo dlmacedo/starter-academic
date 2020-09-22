@@ -57,6 +57,8 @@ menu:
 
 * [Fast AI (PyTorch)](https://www.fast.ai)
 
+## Additional Resources
+
 ### Papers and Codes
 
 * [arXiv](https://arxiv.org)
@@ -79,7 +81,7 @@ menu:
 
 * [Awesome: Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
-### Main Frameworks
+### Software Libraries
 
 * [PyTorch](https://pytorch.org)
 
@@ -94,8 +96,6 @@ menu:
 * [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
 
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
-
-### Coding Tools
 
 * [Open Neural Network Exchange](https://onnx.ai)
 

@@ -14,7 +14,7 @@ menu:
 weight: 80
 ---
 
-{{< figure library="true" src="biggan.jpeg" >}}
+{{< figure library="true" src="biggan.png" >}}
 
 ### Code
 

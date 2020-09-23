@@ -13,8 +13,6 @@ menu:
 weight: 120
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" >}}
-
 ### Links
 
 * [arXiv](https://arxiv.org)

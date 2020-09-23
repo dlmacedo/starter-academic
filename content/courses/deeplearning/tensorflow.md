@@ -14,7 +14,7 @@ menu:
 weight: 20
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" >}}
+{{< figure library="true" src="tensorflow.png" >}}
 
 ### Code
 

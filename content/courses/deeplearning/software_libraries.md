@@ -16,7 +16,7 @@ weight: 130
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-### links
+### Links
 
 * [PyTorch](https://pytorch.org)
 

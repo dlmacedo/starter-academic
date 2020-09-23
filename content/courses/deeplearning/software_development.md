@@ -16,7 +16,7 @@ weight: 140
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-### links
+### Links
 
 * [VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
 

@@ -16,7 +16,7 @@ weight: 120
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-### links
+### Links
 
 * [arXiv](https://arxiv.org)
 

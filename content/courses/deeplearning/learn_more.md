@@ -13,8 +13,6 @@ menu:
 weight: 110
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" >}}
-
 ### Links
 
 * [Dive into Deep Learning](https://d2l.ai)

@@ -16,8 +16,6 @@ weight: 40
 
 {{< figure library="true" src="computer_vision.png" >}}
 
-{{< figure library="true" src="computer_vision2.png" >}}
-
 ### Code
 
 * [PyTorch: TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)

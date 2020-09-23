@@ -8,10 +8,10 @@ draft: false
 menu:
   example:
     parent: Main Course
-    weight: 3
+    weight: 30
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 30
 ---
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}

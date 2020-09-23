@@ -14,7 +14,7 @@ menu:
 weight: 100
 ---
 
-{{< figure library="true" src="lc.png" >}}
+{{< figure library="true" src="lc3.png" >}}
 
 ### Code
 

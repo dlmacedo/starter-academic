@@ -14,7 +14,9 @@ menu:
 weight: 40
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" >}}
+{{< figure library="true" src="computer_vision.png" >}}
+
+{{< figure library="true" src="computer_vision2.png" >}}
 
 ### Code
 

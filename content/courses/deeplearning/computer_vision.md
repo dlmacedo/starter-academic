@@ -14,7 +14,7 @@ menu:
 weight: 40
 ---
 
-{{< figure library="true" src="computer_vision.png" >}}
+{{< figure library="true" src="cv.jpeg" >}}
 
 ### Code
 

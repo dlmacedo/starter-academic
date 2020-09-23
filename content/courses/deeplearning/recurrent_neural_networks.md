@@ -16,8 +16,6 @@ weight: 50
 
 {{< figure library="true" src="rnn.png" >}}
 
-{{< figure library="true" src="rnn2.png" >}}
-
 ### Code
 
 * [PyTorch: Time Series Prediction with LSTM Using PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb)

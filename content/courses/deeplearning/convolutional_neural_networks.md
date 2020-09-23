@@ -16,8 +16,6 @@ weight: 30
 
 {{< figure library="true" src="cnn.jpg" >}}
 
-{{< figure library="true" src="cnn2.jpg" >}}
-
 ### Code
 
 * [PyTorch: Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)

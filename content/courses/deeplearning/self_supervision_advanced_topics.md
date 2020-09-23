@@ -16,8 +16,6 @@ weight: 90
 
 {{< figure library="true" src="ss.png" >}}
 
-{{< figure library="true" src="ss2.png" >}}
-
 ### Code
 
 To be uploaded after the presential lecture.

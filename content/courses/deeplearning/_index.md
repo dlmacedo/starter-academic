@@ -49,7 +49,7 @@ menu:
 
 * [Learn More](learn_more)
 
-* [Papers and Codes](papers_and_codes)
+* [Papers and Codes](papers_codes)
 
 * [Software Libraries](software_libraries)
 

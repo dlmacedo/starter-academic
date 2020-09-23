@@ -16,7 +16,7 @@ weight: 2
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-# Code
+### Code
 
 * [TensorFlow 2.X: Basic](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TF_2_0.ipynb)
 
@@ -28,6 +28,6 @@ weight: 2
 
 * [TensorFlow: Eager Execution](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/eager.ipynb)
 
-# Slides
+### Slides
 
 To be uploaded after the presential lecture.

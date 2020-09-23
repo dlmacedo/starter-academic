@@ -16,10 +16,10 @@ weight: 9
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-# Code
+### Code
 
 To be uploaded after the presential lecture.
 
-# Slides
+### Slides
 
 To be uploaded after the presential lecture.

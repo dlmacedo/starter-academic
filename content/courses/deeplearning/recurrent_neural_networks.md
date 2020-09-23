@@ -16,12 +16,12 @@ weight: 5
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-# Code
+### Code
 
 * [PyTorch: Time Series Prediction with LSTM Using PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb)
 
 * [PyTorch: Sequence Models and Long-Short Term Memory Networks: NLP Part of Speech](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/sequence_models_tutorial.ipynb)
 
-# Slides
+### Slides
 
 To be uploaded after the presential lecture.

@@ -16,12 +16,12 @@ weight: 7
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-# Code
+### Code
 
 * [HuggingFace Datasets library - Quick overview](https://githubtocolab.com/huggingface/datasets/blob/master/notebooks/Overview.ipynb)
 
 * [Transformers Notebooks](https://githubtocolab.com/huggingface/transformers/tree/master/notebooks)
 
-# Slides
+### Slides
 
 To be uploaded after the presential lecture.

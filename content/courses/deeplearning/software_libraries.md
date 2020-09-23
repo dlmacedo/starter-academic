@@ -8,15 +8,15 @@ draft: false
 menu:
   example:
     parent: Additional Resources
-    weight: 13
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 13
+weight: 3
 ---
 
 {{< figure library="true" src="deeplearningcourse.jpeg" >}}
 
-# links
+### links
 
 * [PyTorch](https://pytorch.org)
 

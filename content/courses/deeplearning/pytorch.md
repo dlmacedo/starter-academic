@@ -14,7 +14,7 @@ menu:
 weight: 10
 ---
 
-{{< figure library="true" src="pytorch2.jpg" >}}
+{{< figure library="true" src="pytorch2.png" >}}
 
 ### Code
 

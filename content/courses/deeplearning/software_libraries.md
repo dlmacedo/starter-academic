@@ -13,8 +13,6 @@ menu:
 weight: 130
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" >}}
-
 ### Links
 
 * [PyTorch](https://pytorch.org)

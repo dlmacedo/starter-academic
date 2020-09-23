@@ -13,8 +13,6 @@ menu:
 weight: 140
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" >}}
-
 ### Links
 
 * [VS Code Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)

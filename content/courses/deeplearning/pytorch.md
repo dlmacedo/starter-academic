@@ -14,7 +14,7 @@ menu:
 weight: 10
 ---
 
-{{< figure library="true" src="deeplearningcourse.jpeg" >}}
+{{< figure library="true" src="pytorch.jpg" >}}
 
 ### Code
 

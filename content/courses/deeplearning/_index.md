@@ -55,7 +55,7 @@ menu:
 
 * [Software Development](software_development)
 
-{{< figure library="true" src="marca-ufpe.jpg" >}}{{< figure library="true" src="logo-cin.png" >}}{{< figure library="true" src="logo-cin.ai.png" >}}
+{{< figure library="true" src="ufpe-cin-cin-ai.png" >}}
 
 {{% alert note %}}
 **Follow the [Github repository](https://github.com/dlmacedo/starter-academic) to be notified when we release (usually annually) an updated version of this course. On the repository page, click on "Watch" and next on "Releases only."**

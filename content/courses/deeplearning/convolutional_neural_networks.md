@@ -14,7 +14,7 @@ menu:
 weight: 30
 ---
 
-{{< figure library="true" src="cnn.jpg" >}}
+{{< figure library="true" src="alexnet" >}}
 
 ### Code
 

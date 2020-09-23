@@ -16,8 +16,6 @@ weight: 100
 
 {{< figure library="true" src="lc.png" >}}
 
-{{< figure library="true" src="lc2.png" >}}
-
 ### Code
 
 To be uploaded after presential lecture.

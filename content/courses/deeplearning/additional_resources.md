@@ -11,13 +11,7 @@ draft: false
 menu:
   example:
     name: Additional Resources
-    weight: 3
----
-
-menu:
-  example:
-    parent: Deep Learning Course
     weight: 105
-
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 105
+---

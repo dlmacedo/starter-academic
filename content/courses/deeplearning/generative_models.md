@@ -16,10 +16,10 @@ weight: 80
 
 {{< figure library="true" src="biggan.png" >}}
 
-### Code
-
-* [PyTorch: DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/dcgan_faces_tutorial.ipynb)
-
 ### Slides
 
 To be uploaded after the presential lecture.
+
+### Code
+
+* [PyTorch: DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/dcgan_faces_tutorial.ipynb)

@@ -16,11 +16,11 @@ weight: 40
 
 {{< figure library="true" src="cv.jpeg" >}}
 
-### Slides
+### Lecture [Slides]
 
 To be uploaded after the presential lecture.
 
-### Code
+### Code [Notebooks]
 
 * [PyTorch: TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
 

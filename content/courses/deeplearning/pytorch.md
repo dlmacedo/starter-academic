@@ -16,6 +16,10 @@ weight: 10
 
 {{< figure library="true" src="pytorch2.png" >}}
 
+### Slides
+
+To be uploaded after the presential lecture.
+
 ### Code
 
 * [What is PyTorch?](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/tensor_tutorial.ipynb)
@@ -29,7 +33,3 @@ weight: 10
 * [Optimizer](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/two_layer_net_optim.ipynb)
 
 * [Neural Networks](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/neural_networks_tutorial.ipynb)
-
-### Slides
-
-To be uploaded after the presential lecture.

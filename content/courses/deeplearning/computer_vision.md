@@ -16,6 +16,10 @@ weight: 40
 
 {{< figure library="true" src="cv.jpeg" >}}
 
+### Slides
+
+To be uploaded after the presential lecture.
+
 ### Code
 
 * [PyTorch: TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
@@ -27,7 +31,3 @@ weight: 40
 * [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
 
 * [Roboflow Computer Vision Model Library](https://models.roboflow.com)
-
-### Slides
-
-To be uploaded after the presential lecture.

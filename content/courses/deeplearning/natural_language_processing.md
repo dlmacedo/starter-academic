@@ -16,12 +16,12 @@ weight: 70
 
 {{< figure library="true" src="nlp2.png" >}}
 
+### Slides
+
+To be uploaded after the presential lecture.
+
 ### Code
 
 * [HuggingFace Datasets library - Quick overview](https://githubtocolab.com/huggingface/datasets/blob/master/notebooks/Overview.ipynb)
 
 * [Transformers Notebooks](https://githubtocolab.com/huggingface/transformers/tree/master/notebooks)
-
-### Slides
-
-To be uploaded after the presential lecture.

@@ -16,11 +16,11 @@ weight: 30
 
 {{< figure library="true" src="resnet.png" >}}
 
-### Lecture [Slides]
+### Slides
 
 To be uploaded after the presential lecture.
 
-### Code [Notebooks]
+### Code
 
 * [PyTorch: Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
 

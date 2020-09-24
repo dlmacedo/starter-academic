@@ -16,6 +16,10 @@ weight: 20
 
 {{< figure library="true" src="tensorflow.png" >}}
 
+### Slides
+
+To be uploaded after the presential lecture.
+
 ### Code
 
 * [TensorFlow 2.X: Basic](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TF_2_0.ipynb)
@@ -27,7 +31,3 @@ weight: 20
 * [Get started with TensorFlow 2.X for experts](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/advanced.ipynb)
 
 * [TensorFlow: Eager Execution](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/eager.ipynb)
-
-### Slides
-
-To be uploaded after the presential lecture.

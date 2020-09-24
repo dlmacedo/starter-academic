@@ -28,6 +28,8 @@ To be uploaded after the presential lecture.
 
 * [PyTorch: Detectron2 Beginner's Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Detectron2_Tutorial.ipynb)
 
+### Extra
+
 * [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
 
 * [Roboflow Computer Vision Model Library](https://models.roboflow.com)

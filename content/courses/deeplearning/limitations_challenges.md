@@ -16,10 +16,10 @@ weight: 100
 
 {{< figure library="true" src="lc3.png" >}}
 
-### Code
-
-To be uploaded after presential lecture.
-
 ### Slides
 
 To be uploaded after the presential lecture.
+
+### Code
+
+To be uploaded after presential lecture.

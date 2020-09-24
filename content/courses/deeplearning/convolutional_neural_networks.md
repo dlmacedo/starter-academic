@@ -16,6 +16,10 @@ weight: 30
 
 {{< figure library="true" src="resnet.png" >}}
 
+### Slides
+
+To be uploaded after the presential lecture.
+
 ### Code
 
 * [PyTorch: Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
@@ -27,7 +31,3 @@ weight: 30
 * [TensorFlow Image classification](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/classification.ipynb)
 
 * [TensorFlow Hub with Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/hub_with_keras.ipynb)
-
-### Slides
-
-To be uploaded after the presential lecture.

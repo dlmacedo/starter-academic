@@ -16,11 +16,11 @@ weight: 60
 
 {{< figure library="true" src="transformer2.png" >}}
 
-### Lecture [Slides]
+### Slides
 
 To be uploaded after the presential lecture.
 
-### Code [Notebooks]
+### Code
 
 * [PyTorch: Transformer Illustration and code](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Transformer_Illustration_and_code.ipynb)
 

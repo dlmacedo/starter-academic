@@ -23,3 +23,5 @@ To be uploaded after the presential lecture.
 ### Code
 
 * [PyTorch: DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/dcgan_faces_tutorial.ipynb)
+
+* [TensorFlow: Pix2Pix](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/pix2pix.ipynb)

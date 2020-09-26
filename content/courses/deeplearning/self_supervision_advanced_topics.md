@@ -22,4 +22,4 @@ To be uploaded after the presential lecture.
 
 ### Code
 
-To be uploaded after the presential lecture.
+[PyTorch: Self Supervised Learning Demos](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Self_Supervised_Learning_Demos.ipynb)

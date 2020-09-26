@@ -31,3 +31,5 @@ To be uploaded after the presential lecture.
 * [TensorFlow Image classification](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/classification.ipynb)
 
 * [TensorFlow Hub with Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/hub_with_keras.ipynb)
+
+* [TensorFlow: Transfer learning and fine-tuning](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/transfer_learning.ipynb)

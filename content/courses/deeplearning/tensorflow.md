@@ -33,3 +33,5 @@ To be uploaded after the presential lecture.
 * [TensorFlow: Eager Execution](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/eager.ipynb)
 
 * [Keras: A quick overview](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/overview.ipynb)
+
+* [Saving and Serializing Models with TensorFlow Keras](https://github.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/saving_and_serializing.ipynb)

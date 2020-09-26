@@ -26,6 +26,8 @@ To be uploaded after the presential lecture.
 
 * [TensorFlow 2.X + Keras Overview for Deep Learning Researchers](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TensorFlow_2_0_Keras_Crash_Course.ipynb)
 
+* [tf.keras for Researchers: Crash Course](https://github.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/tf_keras_for_Researchers_Crash_Course.ipynb)
+
 * [Get started with TensorFlow 2.X for beginners](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/beginner.ipynb)
 
 * [Get started with TensorFlow 2.X for experts](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/advanced.ipynb)

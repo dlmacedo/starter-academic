@@ -31,3 +31,5 @@ To be uploaded after the presential lecture.
 * [Get started with TensorFlow 2.X for experts](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/advanced.ipynb)
 
 * [TensorFlow: Eager Execution](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/eager.ipynb)
+
+* [Keras: A quick overview](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/overview.ipynb)

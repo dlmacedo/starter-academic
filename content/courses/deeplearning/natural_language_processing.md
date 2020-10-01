@@ -22,13 +22,13 @@ To be uploaded after the presential lecture.
 
 ### Code
 
-* [TensorFlow: IMDB Classification using Transformers](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/IMDB_Classification_using_Transformers.ipynb)
-
 * [TensorFlow: Word Embeddings](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/word_embeddings.ipynb)
 
 * [TensorFlow: Transformers Chatbot](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/transformer_chatbot.ipynb)
 
 ### Extra
+
+* [SimpleTransformers: Transformers Made Easy](https://wandb.ai/wandb/gallery/reports/SimpleTransformers-Transformers-Made-Easy--VmlldzoyNDQzNTg)
 
 * [Transformers Notebooks](https://github.com/huggingface/transformers/tree/master/notebooks)
 

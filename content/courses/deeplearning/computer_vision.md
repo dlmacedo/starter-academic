@@ -33,3 +33,7 @@ To be uploaded after the presential lecture.
 * [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
 
 * [Roboflow Computer Vision Model Library](https://models.roboflow.com)
+
+* [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+* [Open MM Lab](https://openmmlab.com)

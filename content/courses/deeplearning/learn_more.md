@@ -24,3 +24,5 @@ weight: 110
 * [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 * [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+
+* [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)

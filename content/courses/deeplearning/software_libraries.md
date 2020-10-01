@@ -23,12 +23,6 @@ weight: 130
 
 * [TensorFlow](https://www.tensorflow.org)
 
-* [Huggingface Transformers](https://github.com/huggingface/transformers)
-
-* [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
-
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
-
 * [Open Neural Network Exchange](https://onnx.ai)
 
 * [Weights and Biases](https://www.wandb.com)

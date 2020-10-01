@@ -33,3 +33,9 @@ To be uploaded after the presential lecture.
 ### Extra
 
 * [Transformers Notebooks](https://github.com/huggingface/transformers/tree/master/notebooks)
+
+* [Huggingface Transformers](https://github.com/huggingface/transformers)
+
+* [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
+
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)

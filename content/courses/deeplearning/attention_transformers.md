@@ -27,3 +27,8 @@ To be uploaded after the presential lecture.
 * [PyTorch: nn.Transformer Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/transformer_tutorial.ipynb)
 
 * [PyTorch: Object Detection with DETR - a minimal implementation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/detr_demo.ipynb)
+
+### Extra
+
+* [Transformers from Scratch](http://peterbloem.nl/blog/transformers)
+

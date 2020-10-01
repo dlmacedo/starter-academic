@@ -26,7 +26,7 @@ To be uploaded after the presential lecture.
 
 * [TensorFlow 2.X + Keras Overview for Deep Learning Researchers](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TensorFlow_2_0_Keras_Crash_Course.ipynb)
 
-* [tf.keras for Researchers: Crash Course](https://github.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/tf_keras_for_Researchers_Crash_Course.ipynb)
+* [tf.keras for Researchers: Crash Course](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/tf_keras_for_Researchers_Crash_Course.ipynb)
 
 * [Get started with TensorFlow 2.X for beginners](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/beginner.ipynb)
 
@@ -36,4 +36,4 @@ To be uploaded after the presential lecture.
 
 * [Keras: A quick overview](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/overview.ipynb)
 
-* [Saving and Serializing Models with TensorFlow Keras](https://github.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/saving_and_serializing.ipynb)
+* [Saving and Serializing Models with TensorFlow Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/saving_and_serializing.ipynb)

@@ -22,3 +22,5 @@ weight: 110
 * [Fast AI (PyTorch)](https://www.fast.ai)
 
 * [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+
+* [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)

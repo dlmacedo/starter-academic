@@ -25,3 +25,5 @@ To be uploaded after the presential lecture.
 * [PyTorch: DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/dcgan_faces_tutorial.ipynb)
 
 * [TensorFlow: Pix2Pix](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/pix2pix.ipynb)
+
+* [Bringing Old Photos Back to Life](https://github.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Bringing_Old_Photo_Back_to_Life.ipynb)

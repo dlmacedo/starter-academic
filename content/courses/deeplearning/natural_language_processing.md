@@ -22,8 +22,6 @@ To be uploaded after the presential lecture.
 
 ### Code
 
-* [HuggingFace Datasets library - Quick overview](https://githubtocolab.com/huggingface/datasets/blob/master/notebooks/Overview.ipynb)
-
 * [TensorFlow: IMDB Classification using Transformers](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/IMDB_Classification_using_Transformers.ipynb)
 
 * [TensorFlow: Word Embeddings](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/word_embeddings.ipynb)

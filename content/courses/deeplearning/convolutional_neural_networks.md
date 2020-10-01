@@ -33,3 +33,5 @@ To be uploaded after the presential lecture.
 * [TensorFlow Hub with Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/hub_with_keras.ipynb)
 
 * [TensorFlow: Transfer learning and fine-tuning](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/transfer_learning.ipynb)
+
+* [TensorFlow: What does a CNN see?](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/tensorflow/What_does_a_CNN_see%3F.ipynb)

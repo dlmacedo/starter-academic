@@ -34,3 +34,6 @@ weight: 120
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 * [Awesome: Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+
+* [Deep Learning Colab Notebooks](https://github.com/tugstugi/dl-colab-notebooks)
+

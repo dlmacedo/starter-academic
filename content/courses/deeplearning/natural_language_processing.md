@@ -26,6 +26,8 @@ To be uploaded after the presential lecture.
 
 * [TensorFlow: Transformers Chatbot](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/transformer_chatbot.ipynb)
 
+* [Sentence Embeddings using Siamese BERT-Networks](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/SiameseBERT_SemanticSearch.ipynb)
+
 ### Extra
 
 * [SimpleTransformers: Transformers Made Easy](https://wandb.ai/wandb/gallery/reports/SimpleTransformers-Transformers-Made-Easy--VmlldzoyNDQzNTg)

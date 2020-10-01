@@ -28,4 +28,6 @@ To be uploaded after the presential lecture.
 
 * [TensorFlow: Text classification with an RNN](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/text_classification_rnn.ipynb)
 
-* [TensorFlow: Time series forecasting](https://github.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/time_series.ipynb)
+* [TensorFlow: Time series forecasting](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/time_series.ipynb)
+
+* [Speech Recognition with DeepSpeech](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/tensorflow/MozillaDeepSpeech.ipynb)

@@ -30,5 +30,6 @@ To be uploaded after the presential lecture.
 
 ### Extra
 
-* [Transformers from Scratch](http://peterbloem.nl/blog/transformers)
+* [Jay Alammar: Visualizing machine learning one concept at a time](http://jalammar.github.io)
 
+* [Transformers from Scratch](http://peterbloem.nl/blog/transformers)

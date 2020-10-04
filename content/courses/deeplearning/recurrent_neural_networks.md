@@ -30,4 +30,4 @@ To be uploaded after the presential lecture.
 
 * [TensorFlow: Time series forecasting](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/time_series.ipynb)
 
-* [Speech Recognition with DeepSpeech](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/tensorflow/MozillaDeepSpeech.ipynb)
+* [Speech Recognition with DeepSpeech](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/tensorflow/notebooks/MozillaDeepSpeech.ipynb)

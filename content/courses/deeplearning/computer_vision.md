@@ -28,6 +28,10 @@ To be uploaded after the presential lecture.
 
 * [PyTorch: Detectron2 Beginner's Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Detectron2_Tutorial.ipynb)
 
+* [TensorFlow: Image Segmentation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/segmentation.ipynb)
+
+* [TensorFlow: TensorFlow Hub Object Detection](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/Object_Detection_Inference_on_TF_2_and_TF_Hub.ipynb)
+
 ### Extra
 
 * [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)

@@ -26,7 +26,7 @@ To be uploaded after the presential lecture.
 
 * [TensorFlow: Transformer Model for Language Understanding](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/transformer.ipynb)
 
-* [TensorFlow: Transformers Chatbot](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/transformer_chatbot.ipynb)
+* [TensorFlow: Fine-tuning a BERT Model](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/fine_tuning_bert.ipynb)
 
 * [Fine-tuning with HuggingFace Datasets library and PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/example_fine_tuning_hf_datasets.ipynb)
 

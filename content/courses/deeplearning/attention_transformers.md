@@ -30,6 +30,8 @@ To be uploaded after the presential lecture.
 
 ### Extra
 
+* [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
+
 * [Jay Alammar: Visualizing machine learning one concept at a time](http://jalammar.github.io)
 
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)

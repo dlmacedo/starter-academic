@@ -32,4 +32,6 @@ To be uploaded after the presential lecture.
 
 * [Jay Alammar: Visualizing machine learning one concept at a time](http://jalammar.github.io)
 
+* [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
 * [Transformers from Scratch](http://peterbloem.nl/blog/transformers)

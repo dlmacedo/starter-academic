@@ -22,4 +22,4 @@ To be uploaded after the presential lecture.
 
 ### Code
 
-* [Adversarial example using FGSM](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/adversarial_fgsm.ipynb)
+* [TensorFlow: Adversarial example using FGSM](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/adversarial_fgsm.ipynb)

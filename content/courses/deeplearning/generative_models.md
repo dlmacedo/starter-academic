@@ -32,3 +32,6 @@ To be uploaded after the presential lecture.
 
 * [Neural style transfer](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/style_transfer.ipynb)
 
+### Extra
+
+* [MelNet: A Generative Model for Audio in the Frequency Domain](https://sjvasquez.github.io/blog/melnet)

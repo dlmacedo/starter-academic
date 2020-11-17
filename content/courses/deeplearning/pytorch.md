@@ -34,5 +34,5 @@ To be uploaded after the presential lecture.
 
 * [Neural Networks](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/neural_networks_tutorial.ipynb)
 
-* [A Gentle Introduction to PyTorch 1.2](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/A_Gentle_Introduction_to_PyTorch.ipynb)
+* [A Gentle Introduction to PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/A_Gentle_Introduction_to_PyTorch.ipynb)
 

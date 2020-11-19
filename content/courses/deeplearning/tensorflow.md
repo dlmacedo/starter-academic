@@ -18,7 +18,7 @@ weight: 20
 
 ### Slides
 
-To be uploaded after the presential lecture.
+* [TensorFlow](https://drive.google.com/file/d/1Xp7H9VQ0p22QIuYB51ThKP3eBZfxwOrd/view?usp=sharing)
 
 ### Code
 

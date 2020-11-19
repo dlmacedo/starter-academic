@@ -20,7 +20,7 @@ weight: 10
 
 To be uploaded after the presential lecture.
 
-* [What is PyTorch?](https://1drv.ms/b/s!AhI6-9JuTI6zk58isSjGRsrz8lGcSQ?e=0poCX3)
+* [Desenvolvimento](rrr)
 
 ### Code
 

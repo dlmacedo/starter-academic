@@ -18,9 +18,9 @@ weight: 10
 
 ### Slides
 
-To be uploaded after the presential lecture.
-
 * [Desenvolvimento](https://drive.google.com/file/d/1sUJ4RATp_RvyGcp3A3Dzyk7Z5zZQGPS-/view?usp=sharing)
+
+* [PyTorch](https://drive.google.com/file/d/12KgMRPqCFbWvODisRhmYlXNeNvapOA99/view?usp=sharing)
 
 ### Code
 

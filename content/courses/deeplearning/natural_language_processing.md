@@ -34,7 +34,7 @@ To be uploaded after the presential lecture.
 
 ### Extra
 
-* [SimpleTransformers: Transformers Made Easy](https://wandb.ai/wandb/gallery/reports/SimpleTransformers-Transformers-Made-Easy--VmlldzoyNDQzNTg)
+* [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 
 * [Transformers Notebooks](https://github.com/huggingface/transformers/tree/master/notebooks)
 
@@ -43,3 +43,5 @@ To be uploaded after the presential lecture.
 * [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
 
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
+
+* [SimpleTransformers: Transformers Made Easy](https://wandb.ai/wandb/gallery/reports/SimpleTransformers-Transformers-Made-Easy--VmlldzoyNDQzNTg)

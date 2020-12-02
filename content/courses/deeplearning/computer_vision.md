@@ -22,9 +22,7 @@ To be uploaded after the presential lecture.
 
 ### Code
 
-* [PyTorch: TorchVision Object Detection finetuning tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
-
-* [PyTorch: Fully-Convolutional Network model with a ResNet-101 backbone](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/pytorch_vision_fcn_resnet101.ipynb)
+* [PyTorch: TorchVision Instance Segmentation Finetuning Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
 
 * [PyTorch: Detectron2 Beginner's Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Detectron2_Tutorial.ipynb)
 

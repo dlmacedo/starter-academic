@@ -24,6 +24,8 @@ To be uploaded after the presential lecture.
 
 * [PyTorch: TorchVision Instance Segmentation Finetuning Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
 
+* [PyTorch: Semantic Segmentation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Semantic_Segmentation.ipynb)
+
 * [PyTorch: Detectron2 Beginner's Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Detectron2_Tutorial.ipynb)
 
 * [TensorFlow: Image Segmentation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/segmentation.ipynb)

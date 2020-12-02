@@ -38,6 +38,8 @@ To be uploaded after the presential lecture.
 
 * [Roboflow Computer Vision Model Library](https://models.roboflow.com)
 
+* [PyTorch Facebook Detectron 2](hhttps://github.com/facebookresearch/detectron2)
+
 * [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 * [Open MM Lab](https://openmmlab.com)

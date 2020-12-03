@@ -18,7 +18,7 @@ weight: 30
 
 ### Slides
 
-To be uploaded after the presential lecture.
+* [Convolutional Neural Networks](https://drive.google.com/file/d/1v3JEibKuezzgPqqTJpp-AfQiLH40wTrd/view?usp=sharing)
 
 ### Code
 

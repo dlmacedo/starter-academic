@@ -18,7 +18,7 @@ weight: 40
 
 ### Slides
 
-To be uploaded after the presential lecture.
+* [Computer Vision](https://drive.google.com/file/d/1XpAXsgWbIEbw0A81KJsPgqrYrFM7ophM/view?usp=sharing)
 
 ### Code
 

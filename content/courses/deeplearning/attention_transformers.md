@@ -18,7 +18,7 @@ weight: 60
 
 ### Slides
 
-To be uploaded after the presential lecture.
+* [Attention and Transformers](https://drive.google.com/file/d/167ZjJNMrnBcJ0IyHD0XZY2gR3USobJ5K/view?usp=sharing)
 
 ### Code
 

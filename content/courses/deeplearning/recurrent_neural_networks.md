@@ -18,7 +18,7 @@ weight: 50
 
 ### Slides
 
-To be uploaded after the presential lecture.
+* [Recurrent Neural Networks](https://drive.google.com/file/d/1W6UldbKz9ODjUwLblVeJ5ElO9R6WtuLX/view?usp=sharing)
 
 ### Code
 

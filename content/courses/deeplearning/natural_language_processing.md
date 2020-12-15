@@ -18,7 +18,7 @@ weight: 70
 
 ### Slides
 
-To be uploaded after the presential lecture.
+* [Natural Language Processing](https://drive.google.com/file/d/1V12SSVMvbSOoN-5rV93dDaNAdYE4zGCm/view?usp=sharing)
 
 ### Code
 

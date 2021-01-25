@@ -26,11 +26,11 @@ To be uploaded after the presential lecture.
 
 * [TensorFlow: Pix2Pix](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/pix2pix.ipynb)
 
-* [Convolutional Variational Autoencoder](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/cvae.ipynb)
+* [Neural Style Transfer](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/style_transfer.ipynb)
 
 * [Bringing Old Photos Back to Life](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Bringing_Old_Photo_Back_to_Life.ipynb)
 
-* [Neural style transfer](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/style_transfer.ipynb)
+* [Convolutional Variational Autoencoder](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/cvae.ipynb)
 
 ### Extra
 

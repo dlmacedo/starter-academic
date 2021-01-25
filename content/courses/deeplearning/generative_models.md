@@ -39,3 +39,7 @@ To be uploaded after the presential lecture.
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN)
 
 * [MelNet: A Generative Model for Audio in the Frequency Domain](https://sjvasquez.github.io/blog/melnet)
+
+* [Better Language Models and Their Implications](https://openai.com/blog/better-language-models)
+
+* [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)

@@ -38,6 +38,8 @@ To be uploaded after the presential lecture.
 
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN)
 
+* [NVIDIA Research Achieves AI Training Breakthrough Using Limited Datasets](https://blogs.nvidia.com/blog/2020/12/07/neurips-research-limited-data-gan)
+
 * [MelNet: A Generative Model for Audio in the Frequency Domain](https://sjvasquez.github.io/blog/melnet)
 
 * [Better Language Models and Their Implications](https://openai.com/blog/better-language-models)

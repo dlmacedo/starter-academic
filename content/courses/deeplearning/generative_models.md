@@ -34,4 +34,8 @@ To be uploaded after the presential lecture.
 
 ### Extra
 
+* [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix)
+
+* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN)
+
 * [MelNet: A Generative Model for Audio in the Frequency Domain](https://sjvasquez.github.io/blog/melnet)

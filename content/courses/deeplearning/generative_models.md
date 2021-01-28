@@ -18,7 +18,7 @@ weight: 80
 
 ### Slides
 
-To be uploaded after the presential lecture.
+* [Generative Models](https://drive.google.com/file/d/1-5qvBgScrXB7LiE4K_gZ3iBfJmxBVDIo/view?usp=sharing)
 
 ### Code
 

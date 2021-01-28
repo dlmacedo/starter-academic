@@ -18,7 +18,7 @@ weight: 80
 
 ### Slides
 
-* [Generative Models](https://drive.google.com/file/d/1-5qvBgScrXB7LiE4K_gZ3iBfJmxBVDIo/view?usp=sharing)
+* [Generative Models](https://drive.google.com/file/d/1jCE39rycuo0ki9QvvsxtXVGVDkvqq93t/view?usp=sharing)
 
 ### Code
 

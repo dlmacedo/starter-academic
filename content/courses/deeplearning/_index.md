@@ -23,8 +23,6 @@ menu:
 
 {{< youtube e2_hsjpTi4w >}}
 
-{{< youtube CKnipnFsuFo >}}
-
 ### Main Course
 
 1. [PyTorch](pytorch)

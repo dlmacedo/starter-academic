@@ -41,9 +41,17 @@ menu:
 
 8. [Generative Models](generative_models)
 
-9. [Self-Supervision and Advanced Topics](self_supervision_advanced_topics)
+9. [Self-Supervision and Related Topics](self_supervision_related_topics)
 
-10. [Limitations and Challenges](limitations_challenges)
+10. [Efficient Deep Learning: Models and Techniques]()
+
+11. [Deep Learning for Tabular Data and Time Series]()
+
+12. [Deep Reinforcement Learning]()
+
+13. [Geometric Deep Learning]()
+
+14. [Trustworthy Deep Learning](trustworthy_deep_learning)
 
 ### Additional Resources
 

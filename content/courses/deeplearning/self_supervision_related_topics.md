@@ -1,6 +1,6 @@
 ---
-title: Self-Supervision and Advanced Topics
-linktitle: Self-Supervision and Advanced Topics
+title: Self-Supervision and Related Topics
+linktitle: Self-Supervision and Related Topics
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -22,4 +22,4 @@ To be uploaded after the presential lecture.
 
 ### Code
 
-[PyTorch: Self Supervised Learning Demos](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Self_Supervised_Learning_Demos.ipynb)
+* [PyTorch: Self Supervised Learning Demos](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Self_Supervised_Learning_Demos.ipynb)

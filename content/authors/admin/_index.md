@@ -73,13 +73,12 @@ social:
   link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
 - icon: dblp
   icon_pack: ai
-  link: https://dblp.org/pid/228/1710.html
+  link: https://dblp.org/pid/228/1710
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 

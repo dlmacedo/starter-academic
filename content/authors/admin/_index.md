@@ -91,4 +91,4 @@ user_groups:
 - Visitors
 ---
 
-Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. ICLR Reviewer, ICML Reviewer, IEEE Journals Reviewer.
+Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. ICLR Reviewer, ICML Reviewer, and IEEE Journals Reviewer.

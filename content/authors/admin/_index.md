@@ -22,22 +22,26 @@ bio: My research interests include deep learning and related areas.
 
 interests:
 - Deep Learning
+- Trustworthy AI
 - Computer Vision
 - Natural Language Processing
-- Speech Processing
-- Trustworthy AI
+- Speech and Audio Processing
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Deep Learning (GPA 10.0/10.00)
+    institution: Universidade Federal de Pernambuco
+    year: 2022
+    First Place in the Admission Processes.
+  - course: MSc in Deep Learning (GPA 10.0/10.00)
+    institution: Universidade Federal de Pernambuco
+    year: 2018
+    First Place in the Admission Processes.
+  - course: BSc in Electrical Engineering (GPA 9.56/10.00)
+    institution: Universidade Federal de Pernambuco
+    year: 1996
+    First Place in the Admission Process.
+    Highest Academic Distinction (Best Overall Student).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,15 +63,15 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/4271819510740061
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/3044411/david-macedo/
+#- icon: publons
+#  icon_pack: ai
+#  link: https://publons.com/researcher/3044411/david-macedo/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2527-4548
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/David_Macedo7
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/David_Macedo7
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
@@ -90,4 +94,4 @@ user_groups:
 - Visitors
 ---
 
-Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. ICLR Reviewer, ICML Reviewer, and IEEE Journals Reviewer.
+Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. ICLR, ICML, and IEEE Reviewer.

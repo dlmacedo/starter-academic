@@ -14,8 +14,8 @@ role: Professor of Deep Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Visiting Researcher with MILA
-  url: "https://mila.quebec/en/person/david-macedo"
+- name: AI Professor, Researcher, and Consultant
+  url: "https://dlmacedo"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning and related areas.
@@ -105,3 +105,6 @@ Co-creator and currently Collaborator Professor of the Deep Learning course of t
 https://deeplearning.cin.ufpe.br
 
 PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. ICLR, ICML, and IEEE Reviewer.
+
+https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
+

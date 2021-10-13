@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Deep Learning
+role: AI Professor, Researcher, and Consultant
 
 # Organizations/Affiliations
-organizations:
-- name: AI Professor, Researcher, and Consultant
-  url: "https://dlmacedo"
+#organizations:
+#- name: AI Professor, Researcher, and Consultant
+#  url: "https://dlmacedo.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning and related areas.

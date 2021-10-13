@@ -65,22 +65,25 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/228/1710
-#- icon: semantic-scholar
-#  icon_pack: ai
-#  link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
 #- icon: researchgate
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/David_Macedo7
-#- icon: publons
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3044411/david-macedo/
+#- icon: elsevier
 #  icon_pack: ai
-#  link: https://publons.com/researcher/3044411/david-macedo/
+#  link: https://reviewerhub.elsevier.com/review-invitations/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dlm@cin.ufpe.br"
+#email: "dlm@cin.ufpe.br"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -90,4 +93,8 @@ user_groups:
 - Visitors
 ---
 
-Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. ICLR, ICML, and IEEE Reviewer.
+Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
+
+Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil (https://deeplearning.cin.ufpe.br/). 
+
+PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. ICLR, ICML, and IEEE Reviewer.

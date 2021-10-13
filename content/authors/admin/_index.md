@@ -100,7 +100,7 @@ Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), Univ
 
 https://mila.quebec/en/person/david-macedo
 
-Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil.
+Cocreator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil.
 
 https://deeplearning.cin.ufpe.br
 

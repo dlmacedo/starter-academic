@@ -15,7 +15,7 @@ role: Professor of Deep Learning
 # Organizations/Affiliations
 organizations:
 - name: Visiting Researcher with MILA
-  url: "https://mila.quebec/en/person/david-macedo/"
+  url: "https://mila.quebec/en/person/david-macedo"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning and related areas.
@@ -68,15 +68,18 @@ social:
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
-#- icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/David_Macedo7
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/davidlopesmacedo
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/David_Macedo7
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/3044411/david-macedo/
+  link: https://publons.com/researcher/3044411/david-macedo
 #- icon: elsevier
 #  icon_pack: ai
-#  link: https://reviewerhub.elsevier.com/review-invitations/
+#  link: https://reviewerhub.elsevier.com/review-invitations
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -95,6 +98,10 @@ user_groups:
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 
-Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil (https://deeplearning.cin.ufpe.br/). 
+https://mila.quebec/en/person/david-macedo
+
+Co-creator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil.
+
+https://deeplearning.cin.ufpe.br
 
 PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. ICLR, ICML, and IEEE Reviewer.

@@ -22,8 +22,6 @@ weight: 10
 
 * [Desenvolvimento](https://drive.google.com/file/d/1sUJ4RATp_RvyGcp3A3Dzyk7Z5zZQGPS-/view?usp=sharing)
 
-* [Projeto](https://drive.google.com/file/d/1RVrFsQkLsTnDcZJn3rzaxdflMujTolIb/view?usp=sharing)
-
 ### Code
 
 * [What is PyTorch?](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/tensor_tutorial.ipynb)

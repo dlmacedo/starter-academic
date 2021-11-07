@@ -5,7 +5,7 @@ summary: Learn how Deep Learning is changing our world!
 weight: 1
 
 # Page metadata.
-title: Deep Learning Course 2020
+title: Deep Learning Course
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-{{< youtube e2_hsjpTi4w >}}
+{{< youtube zNX1knTo2F4 >}}
 
 ### Main Course
 

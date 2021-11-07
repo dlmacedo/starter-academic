@@ -38,3 +38,6 @@ weight: 10
 
 * [A Gentle Introduction to PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/A_Gentle_Introduction_to_PyTorch.ipynb)
 
+* [PyTorch Tutorials](https://pytorch.org/tutorials/)
+
+* [PyTorch Recipes](https://pytorch.org/tutorials/recipes/recipes_index.html)

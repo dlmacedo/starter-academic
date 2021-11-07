@@ -37,3 +37,5 @@ weight: 20
 * [Keras: A quick overview](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/overview.ipynb)
 
 * [Saving and Serializing Models with TensorFlow Keras](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/saving_and_serializing.ipynb)
+
+* [Quick Keras Recipes](https://keras.io/examples/keras_recipes/)

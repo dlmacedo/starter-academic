@@ -34,6 +34,8 @@ weight: 60
 
 * [TensorFlow: TensorFlow Hub Object Detection](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/Object_Detection_Inference_on_TF_2_and_TF_Hub.ipynb)
 
+* [Keras: Computer Vision](https://keras.io/examples/vision/)
+
 ### Extra
 
 * [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)

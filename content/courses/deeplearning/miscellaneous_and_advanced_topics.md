@@ -36,6 +36,18 @@ weight: 80
 
 * [TensorFlow: Adversarial example using FGSM](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/adversarial_fgsm.ipynb)
 
+* [Keras: Structured Data](https://keras.io/examples/structured_data/)
+
+* [Keras: Time Series](https://keras.io/examples/timeseries/)
+
+* [Keras: Audio Data](https://keras.io/examples/audio/)
+
+* [Keras: Generative Models](https://keras.io/examples/generative/)
+
+* [Keras: Reinforcement Learning](https://keras.io/examples/rl/)
+
+* [Keras: Graph Data](https://keras.io/examples/graph/)
+
 ### Extra
 
 * [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix)

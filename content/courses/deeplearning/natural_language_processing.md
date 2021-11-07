@@ -32,6 +32,8 @@ weight: 70
 
 * [Sentence Embeddings using Siamese BERT-Networks](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/SiameseBERT_SemanticSearch.ipynb)
 
+* [Keras: Natural Language Processing](https://keras.io/examples/nlp/)
+
 ### Extra
 
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)

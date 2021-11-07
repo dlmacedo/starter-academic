@@ -30,9 +30,9 @@ weight: 50
 
 * [Hugging Face: Fine-tuning a pretrained model](https://huggingface.co/transformers/training.html)
 
-* [Hugging Face: Examples](https://github.com/huggingface/transformers/tree/master/examples)
-
 * [Hugging Face: Transformers Notebooks](https://huggingface.co/transformers/notebooks.html)
+
+* [Hugging Face: Examples](https://github.com/huggingface/transformers/tree/master/examples)
 
 ### Extra
 

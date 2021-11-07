@@ -28,6 +28,12 @@ weight: 50
 
 * [PyTorch: Object Detection with DETR - a minimal implementation](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/detr_demo.ipynb)
 
+* [Hugging Face: Fine-tuning a pretrained model](https://huggingface.co/transformers/training.html)
+
+* [Hugging Face: Examples](https://github.com/huggingface/transformers/tree/master/examples)
+
+* [Hugging Face: Transformers Notebooks](https://huggingface.co/transformers/notebooks.html)
+
 ### Extra
 
 * [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)

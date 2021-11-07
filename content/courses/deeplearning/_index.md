@@ -31,27 +31,15 @@ menu:
 
 3. [Convolutional Neural Networks](convolutional_neural_networks)
 
-4. [Computer Vision](computer_vision)
+4. [Recurrent Neural Networks](recurrent_neural_networks)
 
-5. [Recurrent Neural Networks](recurrent_neural_networks)
+5. [Attention and Transformers](attention_transformers)
 
-6. [Attention and Transformers](attention_transformers)
+6. [Computer Vision](computer_vision)
 
 7. [Natural Language Procession](natural_language_processing)
 
-8. [Generative Models](generative_models)
-
-9. [Self-Supervision and Related Topics](self_supervision_related_topics)
-
-10. [Efficient Deep Learning: Models and Techniques]()
-
-11. [Deep Learning for Tabular Data and Time Series]()
-
-12. [Deep Reinforcement Learning]()
-
-13. [Geometric Deep Learning]()
-
-14. [Trustworthy Deep Learning](trustworthy_deep_learning)
+8. [Miscellaneous and Advanced Topics](miscellaneous_and_advanced_topics)
 
 ### Additional Resources
 

@@ -54,7 +54,7 @@ Welcome to our **Deep Learning Course**!!!
 
 Follow the [Deep Learning Course](courses/deeplearning/) for code, slides, and additional resorces.
 
-This is the syllabus for the 2020 iteration of the course:
+This is the syllabus for the course:
 
 - [PyTorch](courses/deeplearning/pytorch)
 
@@ -62,16 +62,12 @@ This is the syllabus for the 2020 iteration of the course:
 
 - [Convolutional Neural Networks](courses/deeplearning/convolutional_neural_networks)
 
-- [Computer Vision](courses/deeplearning/computer_vision)
-
 - [Recurrent Neural Networks](courses/deeplearning/recurrent_neural_networks)
 
 - [Attention and Transformers](courses/deeplearning/attention_transformers)
 
+- [Computer Vision](courses/deeplearning/computer_vision)
+
 - [Natural Language Procession](courses/deeplearning/natural_language_processing)
 
-- [Generative Models](courses/deeplearning/generative_models)
-
-- [Self-Supervision and Advanced Topics](courses/deeplearning/self_supervision_advanced_topics)
-
-- [Limitations and Challenges](courses/deeplearning/limitations_challenges)
+- [Miscellaneous and Advanced Topics](courses/deeplearning/miscellaneous_and_advanced_topics)

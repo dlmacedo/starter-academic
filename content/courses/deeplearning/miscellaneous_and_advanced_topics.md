@@ -1,6 +1,6 @@
 ---
-title: Generative Models
-linktitle: Generative Models
+title: Miscellaneous and Advanced Topics
+linktitle: Miscellaneous and Advanced Topics
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -18,7 +18,7 @@ weight: 80
 
 ### Slides
 
-* [Generative Models](https://drive.google.com/file/d/1jCE39rycuo0ki9QvvsxtXVGVDkvqq93t/view?usp=sharing)
+* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1jCE39rycuo0ki9QvvsxtXVGVDkvqq93t/view?usp=sharing)
 
 ### Code
 
@@ -31,6 +31,10 @@ weight: 80
 * [Bringing Old Photos Back to Life](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Bringing_Old_Photo_Back_to_Life.ipynb)
 
 * [Convolutional Variational Autoencoder](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/cvae.ipynb)
+
+* [PyTorch: Self Supervised Learning Demos](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Self_Supervised_Learning_Demos.ipynb)
+
+* [TensorFlow: Adversarial example using FGSM](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/adversarial_fgsm.ipynb)
 
 ### Extra
 
@@ -45,3 +49,4 @@ weight: 80
 * [Better Language Models and Their Implications](https://openai.com/blog/better-language-models)
 
 * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)
+

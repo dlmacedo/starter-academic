@@ -18,7 +18,7 @@ weight: 40
 
 ### Slides
 
-* [Recurrent Neural Networks](https://drive.google.com/file/d/1W6UldbKz9ODjUwLblVeJ5ElO9R6WtuLX/view?usp=sharing)
+* [Recurrent Neural Networks](https://drive.google.com/file/d/1wmu-YqSNgq9BdpoNYLaWfwU3Ldmok5ch/view?usp=sharing)
 
 ### Code
 

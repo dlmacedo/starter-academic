@@ -18,7 +18,7 @@ weight: 30
 
 ### Slides
 
-* [Convolutional Neural Networks](https://drive.google.com/file/d/1v3JEibKuezzgPqqTJpp-AfQiLH40wTrd/view?usp=sharing)
+* [Convolutional Neural Networks](https://drive.google.com/file/d/10MNdr6UusLBdOQzD8sU2sMk0LSgq4iDg/view?usp=sharing)
 
 ### Code
 

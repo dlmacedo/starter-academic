@@ -18,7 +18,7 @@ weight: 70
 
 ### Slides
 
-* [Natural Language Processing](https://drive.google.com/file/d/1V12SSVMvbSOoN-5rV93dDaNAdYE4zGCm/view?usp=sharing)
+* [Natural Language Processing]
 
 ### Code
 

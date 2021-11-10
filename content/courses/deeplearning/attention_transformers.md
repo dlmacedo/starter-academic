@@ -16,6 +16,10 @@ weight: 50
 
 {{< figure library="true" src="transformer2.png" >}}
 
+### Video
+
+* [Attention and Transformers](https://drive.google.com/file/d/1oPjS5oqvn1g_vJyKKmmB6qLh2HgnF9Xn/view?usp=sharing)
+
 ### Slides
 
 * [Attention and Transformers](https://drive.google.com/file/d/1lUagztAbGaGcDP7e-4kXhIxSTW-3pYGC/view?usp=sharing)

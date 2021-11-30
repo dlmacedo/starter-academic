@@ -16,6 +16,10 @@ weight: 60
 
 {{< figure library="true" src="cv.jpeg" >}}
 
+### Video
+
+* [Computer Vision](https://drive.google.com/file/d/17vcERhRziDS2-mLUqgaDvnlK_opZNqTB/view?usp=sharing)
+
 ### Slides
 
 * [Computer Vision](https://drive.google.com/file/d/1Gwt1BWfY2qCrJkLB0heNPreSkBcfOVWw/view?usp=sharing)

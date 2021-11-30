@@ -16,6 +16,10 @@ weight: 70
 
 {{< figure library="true" src="nlp2.png" >}}
 
+### Video
+
+* [Natural Language Processing](https://drive.google.com/file/d/17vcERhRziDS2-mLUqgaDvnlK_opZNqTB/view?usp=sharing)
+
 ### Slides
 
 * [Natural Language Processing](https://drive.google.com/file/d/19ImNivJDMRRzTCyDS3NGm1JLH99Udprj/view?usp=sharing)

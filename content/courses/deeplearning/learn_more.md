@@ -26,3 +26,5 @@ weight: 110
 * [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 * [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+* [Welcome to the UvA Deep Learning Tutorials!](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)

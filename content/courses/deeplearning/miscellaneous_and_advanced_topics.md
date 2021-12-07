@@ -48,6 +48,18 @@ weight: 80
 
 * [Keras: Graph Data](https://keras.io/examples/graph/)
 
+* [Tutorial: Adversarial attacks](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial10/Adversarial_Attacks.ipynb)
+
+* [Tutorial: Self-Supervised Contrastive Learning with SimCLR](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial17/SimCLR.ipynb)
+
+* [Tutorial: Meta-Learning - Learning to Learn](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial16/Meta_Learning.ipynb)
+
+* [Interacting with CLIP](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb)
+
+* [Uncertainty Estimation](https://colab.research.google.com/drive/1H_XlTbNvjxlAXMW5NuBDWhxF3F2Osg1F?usp=sharing)
+
+* [MobileViT: A mobile-friendly Transformer-based model for image classification](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/mobilevit.ipynb)
+
 ### Extra
 
 * [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix)

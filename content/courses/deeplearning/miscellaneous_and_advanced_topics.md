@@ -18,7 +18,7 @@ weight: 80
 
 ### Slides
 
-* [Miscellaneous and Advanced Topics]
+* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1F9ZxqoemySYvV-FRMHYyZCyKoCSdPazK/view?usp=sharing)
 
 ### Code
 

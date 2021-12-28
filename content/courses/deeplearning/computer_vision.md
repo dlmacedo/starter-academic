@@ -16,15 +16,15 @@ weight: 60
 
 {{< figure library="true" src="cv.jpeg" >}}
 
-### Video
+### Lecture Video (Portuguese)
 
-* [Computer Vision](https://drive.google.com/file/d/17vcERhRziDS2-mLUqgaDvnlK_opZNqTB/view?usp=sharing)
+* [Computer Vision](https://drive.google.com/file/d/1wOQPhzwYCq7uZYR4rn_nt4I7RnB-Fw2M/view?usp=sharing)
 
-### Slides
+### Slides (English)
 
 * [Computer Vision](https://drive.google.com/file/d/1Gwt1BWfY2qCrJkLB0heNPreSkBcfOVWw/view?usp=sharing)
 
-### Code
+### Code (Google Colab, Notebooks and More)
 
 * [PyTorch: TorchVision Instance Segmentation Finetuning Tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/torchvision_finetuning_instance_segmentation.ipynb)
 
@@ -54,7 +54,7 @@ weight: 60
 
 {{< youtube 4UyBxlJChfc >}}
 
-### Extra
+### Additional Resources
 
 * [Top Computer Vision Google Colab Notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
 

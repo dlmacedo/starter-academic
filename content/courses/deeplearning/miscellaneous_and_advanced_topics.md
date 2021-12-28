@@ -16,11 +16,15 @@ weight: 80
 
 {{< figure library="true" src="biggan.png" >}}
 
-### Slides
+### Lecture Video (Portuguese)
 
-* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1F9ZxqoemySYvV-FRMHYyZCyKoCSdPazK/view?usp=sharing)
+* [Miscellaneous and Advanced Topics]
 
-### Code
+### Slides (English)
+
+* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1fxi-kqAMbV0dsE-xCBX7ZUDVWjFNGGL-/view?usp=sharing)
+
+### Code (Google Colab, Notebooks and More)
 
 * [PyTorch: DCGAN tutorial](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/dcgan_faces_tutorial.ipynb)
 
@@ -60,7 +64,7 @@ weight: 80
 
 * [MobileViT: A mobile-friendly Transformer-based model for image classification](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/mobilevit.ipynb)
 
-### Extra
+### Additional Resources
 
 * [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix)
 

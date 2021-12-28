@@ -16,13 +16,17 @@ weight: 10
 
 {{< figure library="true" src="pytorch2.png" >}}
 
-### Slides
+### Lecture Video (Portuguese)
+
+* [PyTorch](https://drive.google.com/file/d/1XD5pNneyKZsYE9s6Y9hDuVuNj1Xg9CfE/view?usp=sharing)
+
+### Slides (English)
 
 * [PyTorch](https://drive.google.com/file/d/12KgMRPqCFbWvODisRhmYlXNeNvapOA99/view?usp=sharing)
 
 * [Desenvolvimento](https://drive.google.com/file/d/1sUJ4RATp_RvyGcp3A3Dzyk7Z5zZQGPS-/view?usp=sharing)
 
-### Code
+### Code (Google Colab, Notebooks and More)
 
 * [What is PyTorch?](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/tensor_tutorial.ipynb)
 

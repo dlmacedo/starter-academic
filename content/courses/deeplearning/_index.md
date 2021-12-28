@@ -5,7 +5,7 @@ summary: Learn how Deep Learning is changing our world!
 weight: 1
 
 # Page metadata.
-title: Deep Learning Course
+title: Deep Learning 2022
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false

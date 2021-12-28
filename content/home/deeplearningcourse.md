@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Deep Learning Course"
+title = "Deep Learning 2022"
 subtitle = ""
 
 [design]
@@ -52,7 +52,7 @@ subtitle = ""
 
 Welcome to our **Deep Learning Course**!!!
 
-Follow the [Deep Learning Course](courses/deeplearning/) for code, slides, and additional resorces.
+Follow the [Deep Learning Course](courses/deeplearning/) for lecture videos (portuguese) and slides (english), codes, and additional resorces.
 
 This is the syllabus for the course:
 

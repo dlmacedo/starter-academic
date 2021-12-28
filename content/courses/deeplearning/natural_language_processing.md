@@ -16,15 +16,15 @@ weight: 70
 
 {{< figure library="true" src="nlp2.png" >}}
 
-### Video
+### Lecture Video (Portuguese)
 
-* [Natural Language Processing](https://drive.google.com/file/d/17vcERhRziDS2-mLUqgaDvnlK_opZNqTB/view?usp=sharing)
+* [Natural Language Processing](https://drive.google.com/file/d/1wOQPhzwYCq7uZYR4rn_nt4I7RnB-Fw2M/view?usp=sharing)
 
-### Slides
+### Slides (English)
 
 * [Natural Language Processing](https://drive.google.com/file/d/19ImNivJDMRRzTCyDS3NGm1JLH99Udprj/view?usp=sharing)
 
-### Code
+### Code (Google Colab, Notebooks and More)
 
 * [TensorFlow: Word Embeddings](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/word_embeddings.ipynb)
 
@@ -52,7 +52,7 @@ weight: 70
 
 * [Huggingface: Transformers Notebooks](https://github.com/huggingface/transformers/tree/master/notebooks)
 
-### Extra
+### Additional Resources
 
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 

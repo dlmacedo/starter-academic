@@ -16,11 +16,11 @@ weight: 40
 
 {{< figure library="true" src="rnn.png" >}}
 
-### Slides
+### Slides (English)
 
 * [Recurrent Neural Networks](https://drive.google.com/file/d/1wmu-YqSNgq9BdpoNYLaWfwU3Ldmok5ch/view?usp=sharing)
 
-### Code
+### Code (Google Colab, Notebooks and More)
 
 * [PyTorch: Time Series Prediction with LSTM Using PyTorch](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb)
 

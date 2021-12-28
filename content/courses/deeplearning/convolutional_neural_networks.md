@@ -16,11 +16,11 @@ weight: 30
 
 {{< figure library="true" src="resnet.png" >}}
 
-### Slides
+### Slides (English)
 
 * [Convolutional Neural Networks](https://drive.google.com/file/d/10MNdr6UusLBdOQzD8sU2sMk0LSgq4iDg/view?usp=sharing)
 
-### Code
+### Code (Google Colab, Notebooks and More)
 
 * [PyTorch: Training a Classifier](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/cifar10_tutorial.ipynb)
 

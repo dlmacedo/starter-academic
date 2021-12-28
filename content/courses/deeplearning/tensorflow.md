@@ -16,11 +16,15 @@ weight: 20
 
 {{< figure library="true" src="tensorflow.png" >}}
 
-### Slides
+### Lecture Video (Portuguese)
+
+* [TensorFlow](https://drive.google.com/file/d/1XD5pNneyKZsYE9s6Y9hDuVuNj1Xg9CfE/view?usp=sharing)
+
+### Slides (English)
 
 * [TensorFlow](https://drive.google.com/file/d/1Xp7H9VQ0p22QIuYB51ThKP3eBZfxwOrd/view?usp=sharing)
 
-### Code
+### Code (Google Colab, Notebooks and More)
 
 * [TensorFlow 2.X: Basic](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/TF_2_0.ipynb)
 

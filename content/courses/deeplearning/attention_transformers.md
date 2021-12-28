@@ -16,15 +16,15 @@ weight: 50
 
 {{< figure library="true" src="transformer2.png" >}}
 
-### Video
+### Lecture Video (Portuguese)
 
-* [Attention and Transformers](https://drive.google.com/file/d/1oPjS5oqvn1g_vJyKKmmB6qLh2HgnF9Xn/view?usp=sharing)
+* [Attention and Transformers](https://drive.google.com/file/d/1Ljv2Wd_8DUTqpX7i9zC3qf5L7yqlwEiL/view?usp=sharing)
 
-### Slides
+### Slides (English)
 
 * [Attention and Transformers](https://drive.google.com/file/d/1lUagztAbGaGcDP7e-4kXhIxSTW-3pYGC/view?usp=sharing)
 
-### Code
+### Code (Google Colab, Notebooks and More)
 
 * [PyTorch: Transformer Illustration and code](https://githubtocolab.com/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Transformer_Illustration_and_code.ipynb)
 
@@ -38,7 +38,7 @@ weight: 50
 
 * [Hugging Face: Examples](https://github.com/huggingface/transformers/tree/master/examples)
 
-### Extra
+### Additional Resources
 
 * [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
 

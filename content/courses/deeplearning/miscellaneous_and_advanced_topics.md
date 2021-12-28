@@ -18,11 +18,11 @@ weight: 80
 
 ### Lecture Video (Portuguese)
 
-* [Miscellaneous and Advanced Topics]
+* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1fxi-kqAMbV0dsE-xCBX7ZUDVWjFNGGL-/view?usp=sharing)
 
 ### Slides (English)
 
-* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1fxi-kqAMbV0dsE-xCBX7ZUDVWjFNGGL-/view?usp=sharing)
+* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1F9ZxqoemySYvV-FRMHYyZCyKoCSdPazK/view?usp=sharing)
 
 ### Code (Google Colab, Notebooks and More)
 

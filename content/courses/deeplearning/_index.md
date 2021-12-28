@@ -55,8 +55,6 @@ menu:
 
 * [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
-* [University of Amsterdam Deep Learning Course](https://uvadlc.github.io/)
-
 ### Additional Resources
 
 * [Papers and Codes](papers_codes)

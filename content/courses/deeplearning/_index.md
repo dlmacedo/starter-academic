@@ -41,9 +41,23 @@ menu:
 
 8. [Miscellaneous and Advanced Topics](miscellaneous_and_advanced_topics)
 
-### Additional Resources
+### Learn More
 
-* [Learn More](learn_more)
+* [Dive into Deep Learning](https://d2l.ai)
+
+* [Deep Learning Book](https://www.deeplearningbook.org)
+
+* [Fast AI (PyTorch)](https://www.fast.ai)
+
+* [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+
+* [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+
+* [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+* [University of Amsterdam Deep Learning Course](https://uvadlc.github.io/)
+
+### Additional Resources
 
 * [Papers and Codes](papers_codes)
 

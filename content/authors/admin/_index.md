@@ -25,8 +25,8 @@ interests:
 - Trustworthy AI
 - Computer Vision
 - Natural Language Processing
-- Tabular Data and Time Series
 - Speech and Audio Processing
+- Tabular Data and Time Series
 
 education:
   courses:

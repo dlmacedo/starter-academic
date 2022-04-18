@@ -105,7 +105,13 @@ Cocreator and currently Collaborator Professor of the Deep Learning course of th
 
 https://deeplearning.cin.ufpe.br
 
-PhD Candidate in Computer Science at CIn/UFPE, Brazil. Authored dozens of deep learning papers published in international peer-reviewed journals and conferences. NeurIPS, ICLR, ICML, and IEEE Reviewer.
+PhD Candidate in Computer Science at CIn/UFPE, Brazil.
+
+Authored dozens of deep learning papers published in international peer-reviewed journals and conferences.
+
+Top Conferences (NeurIPS, ICLR, ICML) and IEEE Journals Reviewer.
+
+Complimentary Registration for ICLR 2022: Reviewer.
 
 https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
 

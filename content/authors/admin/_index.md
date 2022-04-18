@@ -107,7 +107,7 @@ https://deeplearning.cin.ufpe.br
 
 PhD Candidate in Computer Science at CIn/UFPE, Brazil.
 
-Authored dozens of deep learning papers published in international peer-reviewed journals and conferences.
+Authored about fifty Deep Learning papers in Top Conferences and Journals.
 
 Top Conferences (NeurIPS, ICLR, ICML) and IEEE Journals Reviewer.
 

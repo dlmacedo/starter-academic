@@ -111,7 +111,9 @@ Authored about fifty Deep Learning papers in Top Conferences and Journals.
 
 Top Conferences (NeurIPS, ICLR, ICML) and IEEE Journals Reviewer.
 
-Complimentary Registration for ICLR 2022: Reviewer.
+Complimentary Registration for ICLR 2022.
+
+Highlighted Reviewer of ICLR 2022.
 
 https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
 

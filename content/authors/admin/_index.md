@@ -107,13 +107,15 @@ https://deeplearning.cin.ufpe.br
 
 PhD Candidate in Computer Science at CIn/UFPE, Brazil.
 
-Authored about fifty Deep Learning papers in Top Conferences and Journals.
+Authored about fifty Deep Learning papers in Conferences and Journals.
 
-Top Conferences (NeurIPS, ICLR, ICML) and IEEE Journals Reviewer.
+Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer
 
-Complimentary Registration for ICLR 2022.
+NeurIPS on Machine Learning Safety Program Committee Member
 
-Highlighted Reviewer of ICLR 2022.
+ICML on Uncertainty & Robustness in Deep Learning Program Committee Member
+
+ICLR Highlighted Reviewer and Complimentary Registration
 
 https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
 

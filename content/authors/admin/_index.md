@@ -105,10 +105,6 @@ Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), Univ
 
 https://mila.quebec/en/person/david-macedo
 
-Authored about thirty Deep Learning papers in Conferences and Journals.
-
-https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
-
 Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer.
 
 NeurIPS on Machine Learning Safety Program Committee Member.
@@ -119,6 +115,12 @@ ICLR Highlighted Reviewer and Complimentary Registration.
 
 https://iclr.cc/Conferences/2022/Reviewers
 
+Authored about thirty Deep Learning papers in Conferences and Journals.
+
+https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
+
 Cocreator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil.
 
 https://deeplearning.cin.ufpe.br
+
+

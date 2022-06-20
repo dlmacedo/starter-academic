@@ -97,7 +97,7 @@ user_groups:
 - Visitors
 ---
 
-Doctorate in Computer Science at CIn/UFPE, Brazil.
+PhD Candidate in Computer Science at CIn/UFPE, Brazil.
 
 [PhD thesis](https://drive.google.com/file/d/1xUpjadWaeGWzuNzaGnBkQ4ieNKkvmOZf/view?usp=sharing)
 

@@ -21,7 +21,7 @@ role: AI Professor, Researcher, and Consultant
 bio: My research interests include deep learning and related areas.
 
 interests:
-- Deep Learning: Theory and Applications
+- Deep Learning
 - Robust, Secure and Reliable AI
 - Computer Vision Understanding
 - Natural Language Understanding

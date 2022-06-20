@@ -92,14 +92,14 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 # PC member and Reviewer of ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning.
+#[PhD thesis](https://drive.google.com/file/d/1xUpjadWaeGWzuNzaGnBkQ4ieNKkvmOZf/view?usp=sharing)
+
 user_groups:
 - Researchers
 - Visitors
 ---
 
 PhD Candidate in Computer Science at CIn/UFPE, Brazil.
-
-[PhD thesis](https://drive.google.com/file/d/1xUpjadWaeGWzuNzaGnBkQ4ieNKkvmOZf/view?usp=sharing)
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 

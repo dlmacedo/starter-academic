@@ -99,7 +99,7 @@ user_groups:
 
 PhD Candidate in Computer Science at CIn/UFPE, Brazil.
 
-[PhD thesis (under review)](https://drive.google.com/file/d/1xUpjadWaeGWzuNzaGnBkQ4ieNKkvmOZf/view?usp=sharing)
+[PhD thesis](https://drive.google.com/file/d/1xUpjadWaeGWzuNzaGnBkQ4ieNKkvmOZf/view?usp=sharing)
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 

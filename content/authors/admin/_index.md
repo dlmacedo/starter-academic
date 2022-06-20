@@ -97,21 +97,28 @@ user_groups:
 - Visitors
 ---
 
+Doctorate in Computer Science at CIn/UFPE, Brazil.
+
+[PhD thesis](https://drive.google.com/file/d/1xUpjadWaeGWzuNzaGnBkQ4ieNKkvmOZf/view?usp=sharing)
+
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 
 https://mila.quebec/en/person/david-macedo
 
-PhD Candidate in Computer Science at CIn/UFPE, Brazil.
+Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
+
+https://mila.quebec/en/person/david-macedo
+
 
 Authored about fifty Deep Learning papers in Conferences and Journals.
 
-Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer
+Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer.
 
-NeurIPS on Machine Learning Safety Program Committee Member
+NeurIPS on Machine Learning Safety Program Committee Member.
 
-ICML on Uncertainty & Robustness in Deep Learning Program Committee Member
+ICML on Uncertainty & Robustness in Deep Learning Program Committee Member.
 
-ICLR Highlighted Reviewer and Complimentary Registration
+ICLR Highlighted Reviewer and Complimentary Registration.
 
 https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
 

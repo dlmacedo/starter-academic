@@ -22,7 +22,7 @@ bio: My research interests include deep learning and related areas.
 
 interests:
 - Deep Learning
-- Robust, Secure and Reliable AI
+- Robust, Secure, and Reliable AI
 - Computer Vision Understanding
 - Natural Language Understanding
 - Speech and Audio Understanding

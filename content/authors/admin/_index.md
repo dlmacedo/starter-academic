@@ -121,6 +121,8 @@ https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
 
 Cocreator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil.
 
+https://dlmacedo.com/courses/deeplearning/
+
 https://deeplearning.cin.ufpe.br
 
 

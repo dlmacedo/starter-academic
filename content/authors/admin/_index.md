@@ -30,13 +30,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Deep Learning (GPA 10.0/10.00)
+  - course: PhD in Computer Science (Deep Learning) [GPA 10.0/10.00]
     institution: Universidade Federal de Pernambuco (First Place in the Admission Process)
     year: 2022
-  - course: MSc in Deep Learning (GPA 10.0/10.00)
+  - course: MSc in Computer Science (Deep Learning) [GPA 10.0/10.00]
     institution: Universidade Federal de Pernambuco (First Place in the Admission Process)
     year: 2018
-  - course: BSc in Electrical Engineering (GPA 9.56/10.00) with Highest Academic Distinction (Best Overall Student)
+  - course: BSc in Eletronic Engineering [GPA 9.56/10.00] with Highest Academic Distinction (Best Overall Student)
     institution: Universidade Federal de Pernambuco (First Place in the Admission Process)
     year: 1996
 
@@ -99,7 +99,9 @@ user_groups:
 - Visitors
 ---
 
-PhD Candidate in Computer Science at CIn/UFPE, Brazil.
+PhD Candidate in Computer Science (Deep Learning) at CIn/UFPE, Brazil.
+
+Bachelor of Eletronic Engineering with Highest Academic Distinction (Best Overall Student).
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 
@@ -124,5 +126,4 @@ Cocreator and currently Collaborator Professor of the Deep Learning course of th
 https://dlmacedo.com/courses/deeplearning/
 
 https://deeplearning.cin.ufpe.br
-
 

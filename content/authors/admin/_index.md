@@ -117,7 +117,7 @@ ICLR Highlighted Reviewer and Complimentary Registration.
 
 https://iclr.cc/Conferences/2022/Reviewers
 
-Authored about thirty Deep Learning papers in Conferences and Journals.
+Authored about thirty Deep Learning papers in Top Conferences and Journals.
 
 https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
 

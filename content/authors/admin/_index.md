@@ -101,8 +101,6 @@ user_groups:
 
 PhD Candidate in Computer Science (Deep Learning) at CIn/UFPE, Brazil.
 
-Bachelor of Eletronic Engineering with Highest Academic Distinction (Best Overall Student).
-
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 
 https://mila.quebec/en/person/david-macedo
@@ -127,3 +125,4 @@ https://dlmacedo.com/courses/deeplearning/
 
 https://deeplearning.cin.ufpe.br
 
+Bachelor of Eletronic Engineering with Highest Academic Distinction (Best Overall Student).

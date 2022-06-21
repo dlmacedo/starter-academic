@@ -125,4 +125,6 @@ https://dlmacedo.com/courses/deeplearning/
 
 https://deeplearning.cin.ufpe.br
 
+Master in Computer Science (Deep Learning) at CIn/UFPE, Brazil.
+
 Bachelor of Eletronic Engineering with Highest Academic Distinction (Best Overall Student).

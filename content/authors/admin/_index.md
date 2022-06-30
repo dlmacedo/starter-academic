@@ -99,7 +99,7 @@ user_groups:
 - Visitors
 ---
 
-Doctor of Computer Science (Deep Learning), CIn/UFPE, Brazil.
+PhD in Computer Science (Deep Learning), CIn/UFPE, Brazil.
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 

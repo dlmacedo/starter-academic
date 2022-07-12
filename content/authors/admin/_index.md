@@ -117,7 +117,7 @@ https://iclr.cc/Conferences/2022/Reviewers
 
 Authored about thirty Deep Learning papers in Top Conferences and Journals.
 
-https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
+https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
 Cocreator and currently Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctoral Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil.
 

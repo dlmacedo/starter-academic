@@ -99,7 +99,9 @@ user_groups:
 - Visitors
 ---
 
-Doctorate in Computer Science (Deep Learning) at CIn/UFPE, Brazil.
+Doctor in Computer Science (Deep Learning) at CIn/UFPE, Brazil.
+
+[TOWARDS ROBUST DEEP LEARNING USING ENTROPIC LOSSES](https://drive.google.com/file/d/1dq1o7KqH_UEO5tt6YDx2Z2Hr8rVJkQzD/view?usp=sharing)
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 

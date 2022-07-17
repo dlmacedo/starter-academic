@@ -93,6 +93,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 # PC member and Reviewer of ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning.
 #[PhD thesis](https://drive.google.com/file/d/1xUpjadWaeGWzuNzaGnBkQ4ieNKkvmOZf/view?usp=sharing)
+#[TOWARDS ROBUST DEEP LEARNING USING ENTROPIC LOSSES](https://drive.google.com/file/d/1dq1o7KqH_UEO5tt6YDx2Z2Hr8rVJkQzD/view?usp=sharing)
 
 user_groups:
 - Researchers
@@ -100,8 +101,6 @@ user_groups:
 ---
 
 Doctor in Computer Science (Deep Learning) at CIn/UFPE, Brazil.
-
-[TOWARDS ROBUST DEEP LEARNING USING ENTROPIC LOSSES](https://drive.google.com/file/d/1dq1o7KqH_UEO5tt6YDx2Z2Hr8rVJkQzD/view?usp=sharing)
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 

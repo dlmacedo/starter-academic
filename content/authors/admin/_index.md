@@ -100,9 +100,13 @@ user_groups:
 - Visitors
 ---
 
-PhD Computer Science (Deep Learning) at CIn/UFPE, Brazil.
+PhD Computer Science (Deep Learning) at UFPE, Brazil.
 
-Montreal Institute for Learning Algorithms (MILA) (Visiting Researcher), Quebec, Canada.
+“Towards Robust Deep Learning using Entropic Losses”
+
+Montreal Institute for Learning Algorithms (MILA) (Visiting Researcher).
+
+Université de Montréal (UdeM), Quebec, Canada.
 
 https://mila.quebec/en/person/david-macedo
 

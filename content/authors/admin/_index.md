@@ -30,13 +30,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science (Deep Learning) [GPA 10.0/10.00]
+  - course: PhD Computer Science (Deep Learning) [GPA 10.0/10.00]
     institution: Universidade Federal de Pernambuco (First Place in the Admission Process)
     year: 2022
-  - course: MSc in Computer Science (Deep Learning) [GPA 10.0/10.00]
+  - course: MSc Computer Science (Deep Learning) [GPA 10.0/10.00]
     institution: Universidade Federal de Pernambuco (First Place in the Admission Process)
     year: 2018
-  - course: BSc in Eletronic Engineering [GPA 9.56/10.00] with Highest Academic Distinction (Best Overall Student)
+  - course: BSc Eletronic Engineering [GPA 9.56/10.00] with Highest Academic Distinction (Best Overall Student)
     institution: Universidade Federal de Pernambuco (First Place in the Admission Process)
     year: 1996
 
@@ -100,9 +100,9 @@ user_groups:
 - Visitors
 ---
 
-Doctor in Computer Science (Deep Learning) at CIn/UFPE, Brazil.
+PhD Computer Science (Deep Learning) at CIn/UFPE, Brazil.
 
-Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
+Montreal Institute for Learning Algorithms (MILA) (Visiting Researcher), Quebec, Canada.
 
 https://mila.quebec/en/person/david-macedo
 
@@ -126,6 +126,6 @@ https://dlmacedo.com/courses/deeplearning/
 
 https://deeplearning.cin.ufpe.br
 
-Master in Computer Science (Deep Learning) at CIn/UFPE, Brazil.
+MS Computer Science (Deep Learning) at CIn/UFPE, Brazil.
 
-Bachelor of Eletronic Engineering with Highest Academic Distinction (Best Overall Student).
+BS Eletronic Engineering with Highest Academic Distinction (Best Overall Student).

@@ -104,6 +104,8 @@ PhD Computer Science (Deep Learning) at UFPE, Brazil.
 
 “Towards Robust Deep Learning using Entropic Losses”
 
+https://arxiv.org/abs/2208.03566
+
 Montreal Institute for Learning Algorithms (MILA) (Visiting Researcher).
 
 Université de Montréal (UdeM), Quebec, Canada.

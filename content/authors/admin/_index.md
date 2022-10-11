@@ -21,7 +21,8 @@ role: Machine Learning Engineer, Deep Learning Specialist
 bio: My research interests include machine learning and deep learning.
 
 interests:
-- Machine Learning and Deep Learning
+- Deep Learning
+- Machine Learning
 - Artificial Intelligence Safety
 - Computer Vision Understanding
 - Natural Language Understanding

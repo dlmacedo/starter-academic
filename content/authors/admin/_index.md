@@ -132,10 +132,10 @@ ICML on Uncertainty & Robustness in Deep Learning Program Committee Member.
 
 https://sites.google.com/view/udlworkshop2021
 
-Research Project approved by Google Research:
+Research Project approved by Google:
 "Robust Deep Learning"
 
-Research Project approved by Microsoft Research:
+Research Project approved by Microsoft:
 "Deep Learning for Speaker Recognition"
 
 Authored dozens of Machine Learning and Deep Learning papers in Top Conferences and Journals.

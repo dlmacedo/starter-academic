@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Machine Learning Engineer, Deep Learning Specialist
+role: AI Research Scientist
+#role: Machine Learning Engineer, Deep Learning Specialist
 
 # Organizations/Affiliations
 #organizations:
@@ -18,16 +19,16 @@ role: Machine Learning Engineer, Deep Learning Specialist
 #  url: "https://dlmacedo.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning and deep learning.
+bio: My research interests include deep learning and machine learning.
 
 interests:
 - Deep Learning
-- Machine Learning
 - Artificial Intelligence Safety
 - Computer Vision Understanding
 - Natural Language Understanding
 - Speech and Audio Understanding
 - Tabular Data and Time Series
+- Machine Learning
 
 education:
   courses:
@@ -115,13 +116,27 @@ https://mila.quebec/en/person/david-macedo
 
 Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer.
 
-NeurIPS on Machine Learning Safety Program Committee Member.
+https://nips.cc/Conferences/2022/ProgramCommittee
 
-ICML on Uncertainty & Robustness in Deep Learning Program Committee Member.
+https://iclr.cc/Conferences/2022/Reviewers
+
+https://icml.cc/Conferences/2022/Reviewers
 
 ICLR Highlighted Reviewer and Complimentary Registration.
 
-https://iclr.cc/Conferences/2022/Reviewers
+NeurIPS on Machine Learning Safety Program Committee Member.
+
+https://neurips2022.mlsafety.org/
+
+ICML on Uncertainty & Robustness in Deep Learning Program Committee Member.
+
+https://sites.google.com/view/udlworkshop2021
+
+Research Project approved by Google Research:
+"Robust Deep Learning"
+
+Research Project approved by Microsoft Research:
+"Deep Learning for Speaker Recognition"
 
 Authored dozens of Machine Learning and Deep Learning papers in Top Conferences and Journals.
 

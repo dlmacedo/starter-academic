@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: AI Research Scientist
+role: Deep Learning
 #role: Machine Learning Engineer, Deep Learning Specialist
 
 # Organizations/Affiliations
@@ -116,12 +116,6 @@ https://mila.quebec/en/person/david-macedo
 
 Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer.
 
-https://nips.cc/Conferences/2022/ProgramCommittee
-
-https://iclr.cc/Conferences/2022/Reviewers
-
-https://icml.cc/Conferences/2022/Reviewers
-
 ICLR Highlighted Reviewer and Complimentary Registration.
 
 NeurIPS on Machine Learning Safety Program Committee Member.
@@ -144,9 +138,9 @@ https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
 Cocreator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctoral Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil.
 
-https://dlmacedo.com/courses/deeplearning/
-
 https://deeplearning.cin.ufpe.br
+
+https://dlmacedo.com/courses/deeplearning/
 
 MS Computer Science (Deep Learning) at CIn/UFPE, Brazil.
 

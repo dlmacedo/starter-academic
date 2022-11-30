@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Deep Learning
+role: Deep Learning Specialist, Professor, and Researcher
 #role: Machine Learning Engineer, Deep Learning Specialist
 
 # Organizations/Affiliations

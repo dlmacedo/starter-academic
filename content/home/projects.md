@@ -33,6 +33,34 @@ subtitle = ""
     name = "Other"
     tag = "Demo"
 
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning Foundations"
+  
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning for Computer Vision"
+  
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning for Natural Language Processing"
+  
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning for Speech Processing"
+
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning Codes"
+
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning Thesis and Dissertation"
+
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning Books"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

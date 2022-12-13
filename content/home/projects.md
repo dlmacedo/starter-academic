@@ -26,28 +26,24 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
-  
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
-
-  [[content.filter_button]]
     name = "Deep Learning Foundations"
     tag = "dlf"
   
   [[content.filter_button]]
-    name = "Deep Learning for Computer Vision"
-    tag = "dlcv"
+    name = "Computer Vision"
+    tag = "cv"
   
   [[content.filter_button]]
-    name = "Deep Learning for Natural Language Processing"
-    tag = "dlnlp"
+    name = "Natural Language Processing"
+    tag = "nlp"
   
   [[content.filter_button]]
-    name = "Deep Learning for Speech Processing"
-    tag = "dlsp"
+    name = "Speech Processing"
+    tag = "sp"
+
+  [[content.filter_button]]
+    name = "Deep Learning Applications (Others)"
+    tag = "dla"
 
   [[content.filter_button]]
     name = "Codes"

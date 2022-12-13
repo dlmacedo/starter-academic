@@ -34,32 +34,32 @@ subtitle = ""
     tag = "Demo"
 
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning Foundations"
+    name = "Deep Learning Foundations"
+    tag = "dlf"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning for Computer Vision"
+    name = "Deep Learning for Computer Vision"
+    tag = "dlcv"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning for Natural Language Processing"
+    name = "Deep Learning for Natural Language Processing"
+    tag = "dlnlp"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning for Speech Processing"
+    name = "Deep Learning for Speech Processing"
+    tag = "dlsp"
 
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning Codes"
+    name = "Codes"
+    tag = "codes"
 
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning Thesis and Dissertation"
+    name = "Dissertation and Thesis"
+    tag = "dt"
 
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning Books"
+    name = "Books"
+    tag = "books"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

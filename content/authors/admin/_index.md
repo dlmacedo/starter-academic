@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:dlm@cin.ufpe.br"  # For a direct email link, use "mailto:dlm@cin.ufpe.br".
+  link: "mailto:david.lopes.macedo@gmail.com"  # For a direct email link, use "mailto:dlm@cin.ufpe.br".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/david_macedo
@@ -77,9 +77,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/David_Macedo7
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/3044411/david-macedo
+#- icon: publons
+#  icon_pack: ai
+#  link: https://publons.com/researcher/3044411/david-macedo
 #- icon: elsevier
 #  icon_pack: ai
 #  link: https://reviewerhub.elsevier.com/review-invitations

@@ -23,12 +23,12 @@ bio: My interests include deep learning and machine learning.
 
 interests:
 - Deep Learning
-- Artificial Intelligence Safety
 - Computer Vision Understanding
 - Natural Language Understanding
 - Speech and Audio Understanding
 - Tabular Data and Time Series
 - Machine Learning
+- Artificial Intelligence
 
 education:
   courses:
@@ -122,4 +122,4 @@ https://deeplearning.cin.ufpe.br
 
 https://dlmacedo.com/courses/deeplearning/
 
-First Place in Admission Processes for Master of Science (2016) and Doctor of Philosophy (2018) in Computer Science at CIn/UFPE, Brazil. Computer Science Master [GPA 10.00/10.00] and Computer Science Ph.D. [GPA 10.00/10.00]. Electronic Engineering Bachelor with Highest Academic Distinction (Best Overall Student) [GPA 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process.
+First Place in Admission Processes for Master of Science and Doctor of Philosophy in Computer Science at CIn/UFPE, Brazil. Computer Science Master [GPA 10.00/10.00] and Computer Science Ph.D. [GPA 10.00/10.00]. Electronic Engineering Bachelor with Highest Academic Distinction (Best Overall Student) [GPA 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process.

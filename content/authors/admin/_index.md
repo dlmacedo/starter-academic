@@ -23,9 +23,9 @@ bio: My interests include deep learning and machine learning.
 
 interests:
 - Deep Learning
-- Computer Vision Understanding
-- Natural Language Understanding
-- Speech and Audio Understanding
+- Computer Vision
+- Natural Language Processing
+- Audio and Speech Processing
 - Tabular Data and Time Series
 - Machine Learning
 - Artificial Intelligence
@@ -59,9 +59,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dlmacedo
-- icon: lattes
-  icon_pack: ai
-  link: http://lattes.cnpq.br/4271819510740061
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2527-4548
@@ -71,12 +68,15 @@ social:
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/davidlopesmacedo
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/David_Macedo7
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/4271819510740061
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/davidlopesmacedo
 #- icon: publons
 #  icon_pack: ai
 #  link: https://publons.com/researcher/3044411/david-macedo
@@ -102,7 +102,7 @@ user_groups:
 - Visitors
 ---
 
-PhD in Computer Science (Deep Learning), Center of Informatics, Federal University of Pernambuco (UFPE), Brazil: “Towards Robust Deep Learning using Entropic Losses”. Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Authored dozens of Machine Learning and Deep Learning papers in Conferences and Journals. Google Research Award: “Robust Deep Learning”. UFPE, Brazil. Microsoft Research Award: “Deep Learning for Speaker Recognition”. UFPE, Brazil.
+PhD in Computer Science (Deep Learning), Center of Informatics, Federal University of Pernambuco (UFPE), Brazil: "Towards Robust Deep Learning using Entropic Losses". Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Authored dozens of Machine Learning and Deep Learning papers in Conferences and Journals. Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil.
 
 https://arxiv.org/abs/2208.03566
 

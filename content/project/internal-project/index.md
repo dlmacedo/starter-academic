@@ -1,6 +1,6 @@
 ---
 title: Internal Project
-summary: An example of using the in-built project page.
+# summary: An example of using the in-built project page.
 tags:
 - cv
 date: "2016-04-27T00:00:00Z"
@@ -9,14 +9,14 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Authors
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/david_macedo
 url_code: ""
 url_pdf: ""
 url_slides: ""

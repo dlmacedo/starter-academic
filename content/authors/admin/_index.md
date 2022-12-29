@@ -116,7 +116,7 @@ https://neurips2022.mlsafety.org/
 
 https://sites.google.com/view/udlworkshop2021
 
-Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. Participation in Research and Extension Projects. Co-orientation of Master's Thesis.
+Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. Participation in Research and Extension Projects. Co-orientation of Master's Dissertations.
 
 https://deeplearning.cin.ufpe.br
 

@@ -1,7 +1,6 @@
 ---
-title: Internal Project
-# summary: An example of using the in-built project page.
-summary:
+title: "Entropic Out-of-Distribution Detection: Seamless Detection of Unknown Examples."
+summary: "Entropic Out-of-Distribution Detection: Seamless Detection of Unknown Examples."
 tags:
 - cv
 date: "2016-04-27T00:00:00Z"

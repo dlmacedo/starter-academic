@@ -114,12 +114,8 @@ Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer. NeurIPS Workshop o
 
 https://neurips2022.mlsafety.org/
 
-https://sites.google.com/view/udlworkshop2021
-
 Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. Participation in Research and Extension Projects. Co-orientation of Master's Dissertations.
 
 https://deeplearning.cin.ufpe.br
-
-https://dlmacedo.com/courses/deeplearning/
 
 First Place in Admission Processes for Master of Science and Doctor of Philosophy in Computer Science at CIn/UFPE, Brazil. Computer Science Master [GPA 10.00/10.00] and Computer Science Ph.D. [GPA 10.00/10.00]. Electronic Engineering Bachelor with Highest Academic Distinction (Best Overall Student) [GPA 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process.

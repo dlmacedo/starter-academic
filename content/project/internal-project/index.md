@@ -1,6 +1,6 @@
 ---
 title: "Entropic Out-of-Distribution Detection: Seamless Detection of Unknown Examples."
-summary: "Entropic Out-of-Distribution Detection: Seamless Detection of Unknown Examples."
+summary: IEEE Transactions on Neural Networks and Learning Systems
 tags:
 - cv
 date: "2016-04-27T00:00:00Z"

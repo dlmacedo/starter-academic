@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Deep Learning, Machine Learning, and Artificial intelligence
+role: Deep Learning
 #role: Machine Learning Engineer, Deep Learning Specialist
 
 # Organizations/Affiliations
@@ -19,7 +19,7 @@ role: Deep Learning, Machine Learning, and Artificial intelligence
 #  url: "https://dlmacedo.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include deep learning and machine learning.
+bio: My interests include everything related to deep learning.
 
 interests:
 - Deep Learning
@@ -27,8 +27,6 @@ interests:
 - Natural Language Processing
 - Audio and Speech Processing
 - Tabular Data and Time Series
-- Machine Learning
-- Artificial Intelligence
 
 education:
   courses:

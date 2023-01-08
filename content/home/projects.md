@@ -39,8 +39,8 @@ subtitle = ""
     tag = "nlp"
   
   [[content.filter_button]]
-    name = "Audio and Speech Processing"
-    tag = "asp"
+    name = "Audio and Speech"
+    tag = "as"
 
   [[content.filter_button]]
     name = "Other Applications"

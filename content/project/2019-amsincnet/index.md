@@ -2,7 +2,7 @@
 title: "Additive Margin SincNet for Speaker Recognition"
 summary: International Joint Conference on Neural Networks (IJCNN) 2019
 tags:
-- asp
+- as
 date: "2023-01-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

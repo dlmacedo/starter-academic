@@ -28,7 +28,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Foundations"
-    tag = "dlf"
+    tag = "f"
   
   [[content.filter_button]]
     name = "Computer Vision"
@@ -39,24 +39,28 @@ subtitle = ""
     tag = "nlp"
   
   [[content.filter_button]]
-    name = "Speech Processing"
-    tag = "sp"
+    name = "Audio and Speech Processing"
+    tag = "asp"
 
   [[content.filter_button]]
     name = "Other Applications"
-    tag = "dla"
+    tag = "oa"
 
   [[content.filter_button]]
-    name = "Codes"
-    tag = "codes"
+    name = "Dissertation"
+    tag = "d"
 
   [[content.filter_button]]
-    name = "Dissertation and Thesis"
-    tag = "dt"
+    name = "Thesis"
+    tag = "t"
 
   [[content.filter_button]]
     name = "Books"
-    tag = "books"
+    tag = "b"
+
+  [[content.filter_button]]
+    name = "Codes"
+    tag = "c"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

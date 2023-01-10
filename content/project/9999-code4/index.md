@@ -1,6 +1,6 @@
 ---
 title: "The Robust Deep Learning Library"
-summary: https://github.com/dlmacedo
+summary: https://github.com/dlmacedo/robust-deep-learning
 tags:
 - c
 date: "2023-01-10T00:00:00Z"

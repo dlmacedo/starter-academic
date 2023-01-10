@@ -1,6 +1,6 @@
 ---
 title: "SVM-CNN"
-summary: https://github.com/dlmacedo
+summary: https://github.com/dlmacedo/SVM-CNN
 tags:
 - c
 date: "2023-01-10T00:00:00Z"

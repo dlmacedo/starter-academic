@@ -1,6 +1,6 @@
 ---
 title: "Distinction Maximization Loss"
-summary: https://github.com/dlmacedo
+summary: https://github.com/dlmacedo/distinction-maximization-loss
 tags:
 - c
 date: "2023-01-10T00:00:00Z"

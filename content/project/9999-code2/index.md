@@ -1,6 +1,6 @@
 ---
 title: "Entropic Out-of-Distribution Detection"
-summary: https://github.com/dlmacedo
+summary: https://github.com/dlmacedo/entropic-out-of-distribution-detection
 tags:
 - c
 date: "2023-01-10T00:00:00Z"

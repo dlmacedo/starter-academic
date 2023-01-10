@@ -26,7 +26,9 @@ interests:
 - Computer Vision
 - Natural Language Processing
 - Audio and Speech Processing
-- Tabular Data and Time Series
+- Tabular and Graph Data
+- Time Series
+- Applications
 
 education:
   courses:

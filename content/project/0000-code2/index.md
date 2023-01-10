@@ -1,6 +1,6 @@
 ---
 title: "Entropic Out-of-Distribution Detection"
-summary: A project to add scalable state-of-the-art out-of-distribution detection (open set recognition) support to your deep learning model.
+summary: A code project to add scalable state-of-the-art out-of-distribution detection (open set recognition) support to your deep learning model.
 tags:
 - c
 date: "2023-01-10T00:00:00Z"

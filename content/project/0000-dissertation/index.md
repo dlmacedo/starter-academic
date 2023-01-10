@@ -1,6 +1,6 @@
 ---
 title: "Enhancing deep learning performance using displaced rectifier linear unit"
-summary: Center of Informatics (CIn), Federal University of Pernambuco (UFPE)
+summary: Masters Dissertation. Center of Informatics, Federal University of Pernambuco
 tags:
 - d
 date: "2023-01-10T00:00:00Z"

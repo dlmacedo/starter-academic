@@ -1,6 +1,6 @@
 ---
 title: "LogBERT-BiLSTM: Detecting Malicious Web Requests"
-summary: International Conference on Artificial Neural Networks 2022
+summary: International Conference on Artificial Neural Networks 2022.
 tags:
 - oa
 date: "2023-01-08T00:00:00Z"

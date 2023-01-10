@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Batch Normalized Convolutional Networks using Displaced Rectifier Linear Units: A Systematic Comparative Study"
-summary: Expert Systems with Applications 2019
+summary: Expert Systems with Applications 2019.
 tags:
 - f
 date: "2023-01-08T00:00:00Z"

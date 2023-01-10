@@ -1,6 +1,6 @@
 ---
 title: "Towards Robust Deep Learning using Entropic Losses"
-summary: PhD thesis. Center of Informatics, Federal University of Pernambuco
+summary: Deep Learning PhD Thesis. Center of Informatics (CIn), Federal University of Pernambuco (UFPE).
 tags:
 - t
 date: "2023-01-10T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: "AM-MobileNet1D: A Portable Model for Speaker Recognition"
-summary: International Joint Conference on Neural Networks 2020
+summary: International Joint Conference on Neural Networks 2020.
 tags:
 - as
 date: "2023-01-08T00:00:00Z"

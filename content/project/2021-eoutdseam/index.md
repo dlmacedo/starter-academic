@@ -1,6 +1,6 @@
 ---
 title: "Entropic Out-of-Distribution Detection: Seamless Detection of Unknown Examples"
-summary: IEEE Transactions on Neural Networks and Learning Systems 2021
+summary: IEEE Transactions on Neural Networks and Learning Systems 2021.
 tags:
 - f
 date: "2023-01-08T00:00:00Z"

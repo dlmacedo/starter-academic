@@ -1,6 +1,6 @@
 ---
 title: "Intrusion Detection for Cyber–Physical Systems Using Generative Adversarial Networks in Fog Environment"
-summary: IEEE Internet of Things Journal 2020
+summary: IEEE Internet of Things Journal 2020.
 tags:
 - oa
 date: "2023-01-08T00:00:00Z"

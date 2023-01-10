@@ -1,6 +1,6 @@
 ---
 title: "Training Aware Sigmoidal Optimization"
-summary: Brazilian Conference on Intelligent Systems 2022
+summary: Brazilian Conference on Intelligent Systems 2022.
 tags:
 - f
 date: "2023-01-08T00:00:00Z"

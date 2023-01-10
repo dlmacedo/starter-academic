@@ -1,6 +1,6 @@
 ---
 title: "Detecting Malicious HTTP Requests Without Log Parser Using RequestBERT-BiLSTM"
-summary: Brazilian Conference on Intelligent Systems 2022
+summary: Brazilian Conference on Intelligent Systems 2022.
 tags:
 - oa
 date: "2023-01-08T00:00:00Z"

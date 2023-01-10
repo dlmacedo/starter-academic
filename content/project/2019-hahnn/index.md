@@ -1,6 +1,6 @@
 ---
 title: "Hierarchical Attentional Hybrid Neural Networks for Document Classification"
-summary: International Conference on Artificial Neural Networks 2019
+summary: International Conference on Artificial Neural Networks 2019.
 tags:
 - nlp
 date: "2023-01-08T00:00:00Z"

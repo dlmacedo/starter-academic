@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Deep Learning Performance Using Displaced Rectifier Linear Unit"
-summary: Book. Published by Editora Dialética
+summary: Deep Learning Book. Published by Editora Dialética.
 tags:
 - b
 date: "2023-01-10T00:00:00Z"

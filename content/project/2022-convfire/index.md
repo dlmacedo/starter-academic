@@ -1,6 +1,6 @@
 ---
 title: "Convolution Optimization in Fire Classification"
-summary: IEEE Access 2022
+summary: IEEE Access 2022.
 tags:
 - cv
 date: "2023-01-08T00:00:00Z"

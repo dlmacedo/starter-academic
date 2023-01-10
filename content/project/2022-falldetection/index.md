@@ -1,6 +1,6 @@
 ---
 title: "Multi-human Fall Detection and Localization in Videos"
-summary: Computer Vision and Image Understanding 2022
+summary: Computer Vision and Image Understanding 2022.
 tags:
 - cv
 date: "2023-01-08T00:00:00Z"

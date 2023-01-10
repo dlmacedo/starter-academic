@@ -1,6 +1,6 @@
 ---
 title: "Identification of Microorganism Colony Odor Signature using InceptionTime"
-summary: IEEE International Conference on Systems, Man, and Cybernetics 2021
+summary: IEEE International Conference on Systems, Man, and Cybernetics 2021.
 tags:
 - oa
 date: "2023-01-08T00:00:00Z"

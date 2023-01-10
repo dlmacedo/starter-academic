@@ -1,6 +1,6 @@
 ---
 title: "Spatial-Temporal Graph Convolutional Networks for Sign Language Recognition"
-summary: International Conference on Artificial Neural Networks 2019
+summary: International Conference on Artificial Neural Networks 2019.
 tags:
 - cv
 date: "2023-01-08T00:00:00Z"

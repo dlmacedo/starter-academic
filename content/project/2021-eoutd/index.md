@@ -1,6 +1,6 @@
 ---
 title: "Entropic Out-of-Distribution Detection"
-summary: International Joint Conference on Neural Networks 2021
+summary: International Joint Conference on Neural Networks 2021.
 tags:
 - f
 date: "2023-01-08T00:00:00Z"

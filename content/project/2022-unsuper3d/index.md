@@ -1,6 +1,6 @@
 ---
 title: "Unsupervised Multi-view Multi-person 3D Pose Estimation Using Reprojection Error"
-summary: International Conference on Artificial Neural Networks 2022
+summary: International Conference on Artificial Neural Networks 2022.
 tags:
 - cv
 date: "2023-01-08T00:00:00Z"

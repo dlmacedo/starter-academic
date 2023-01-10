@@ -1,6 +1,6 @@
 ---
 title: "SegNetRes-CRF: A Deep Convolutional Encoder-Decoder Architecture for Semantic Image Segmentation"
-summary: International Joint Conference on Neural Networks 2018
+summary: International Joint Conference on Neural Networks 2018.
 tags:
 - cv
 date: "2023-01-08T00:00:00Z"

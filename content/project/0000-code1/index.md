@@ -1,6 +1,6 @@
 ---
 title: "SVM-CNN"
-summary: https://github.com/dlmacedo/SVM-CNN
+summary: A feature extractor based on Python 3, Tensorflow and Scikit-learn created in order to improve the accuracy of SVM to classify MNIST dataset fast and with more accuracy.
 tags:
 - c
 date: "2023-01-10T00:00:00Z"
@@ -30,6 +30,6 @@ url_video: ""
 slides: ""
 ---
 
-A feature extractor based on Python 3, Tensorflow and Scikit-learn created in order to improve the accuracy of SVM to classify MNIST dataset fast and with more accuracy. It is my project based on Python 3, Tensorflow, and Scikit-learn for the course Hybrid Systems of Center of Informatics of UFPE (2016.1). This course is related to my Master's Degree in Deep Learning. The idea is to extract features from the MNIST dataset and then use SVM to classify their images. We show that it improves the accuracy compared to the regular CNN and is faster than ELM of worst accuracy.
+It is my project based on Python 3, Tensorflow, and Scikit-learn for the course Hybrid Systems of Center of Informatics of UFPE (2016.1). This course is related to my Master's Degree in Deep Learning. The idea is to extract features from the MNIST dataset and then use SVM to classify their images. We show that it improves the accuracy compared to the regular CNN and is faster than ELM of worst accuracy.
 
 https://github.com/dlmacedo/SVM-CNN

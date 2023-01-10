@@ -1,6 +1,6 @@
 ---
 title: "The Robust Deep Learning Library"
-summary: https://github.com/dlmacedo/robust-deep-learning
+summary: A project to train your model from scratch or fine-tune a pretrained model using the losses provided in this library to improve out-of-distribution detection and uncertainty estimation performances.
 tags:
 - c
 date: "2023-01-10T00:00:00Z"
@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 
-A project to train your model from scratch or fine-tune a pretrained model using the losses provided in this library to improve out-of-distribution detection and uncertainty estimation performances. Calibrate your model to produce enhanced uncertainty estimations. Detect out-of-distribution data using the defined score type and threshold. Train your model from scratch or fine-tune a pretrained model using the losses provided in this library to improve out-of-distribution detection and uncertainty estimation performances. Calibrate your model to produce enhanced uncertainty estimations. Detect out-of-distribution data using the defined score type and threshold.
+Calibrate your model to produce enhanced uncertainty estimations. Detect out-of-distribution data using the defined score type and threshold. Train your model from scratch or fine-tune a pretrained model using the losses provided in this library to improve out-of-distribution detection and uncertainty estimation performances. Calibrate your model to produce enhanced uncertainty estimations. Detect out-of-distribution data using the defined score type and threshold.
 
 Model Independent:
 Use models from timm library or whatever you want.

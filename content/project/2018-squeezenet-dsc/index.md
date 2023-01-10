@@ -1,6 +1,6 @@
 ---
 title: "Reducing Squeezenet Storage Size with Depthwise Separable Convolutions"
-summary: International Joint Conference on Neural Networks (IJCNN) 2018
+summary: International Joint Conference on Neural Networks 2018
 tags:
 - cv
 date: "2023-01-08T00:00:00Z"

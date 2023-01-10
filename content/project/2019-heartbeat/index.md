@@ -1,6 +1,6 @@
 ---
 title: "Heartbeat Anomaly Detection using Adversarial Oversampling"
-summary: International Joint Conference on Neural Networks (IJCNN) 2019
+summary: International Joint Conference on Neural Networks 2019
 tags:
 - cv
 date: "2023-01-08T00:00:00Z"

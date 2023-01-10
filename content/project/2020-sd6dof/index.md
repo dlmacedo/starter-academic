@@ -1,6 +1,6 @@
 ---
 title: "Squeezed Deep 6DoF Object Detection Using Knowledge Distillation"
-summary: International Joint Conference on Neural Networks (IJCNN) 2020
+summary: International Joint Conference on Neural Networks 2020
 tags:
 - cv
 date: "2023-01-08T00:00:00Z"

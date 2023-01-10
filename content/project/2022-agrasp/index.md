@@ -1,6 +1,6 @@
 ---
 title: "An Adapted GRASP Approach for Hyperparameter Search on Deep Networks Applied to Tabular Data"
-summary: International Joint Conference on Neural Networks (IJCNN) 2022
+summary: International Joint Conference on Neural Networks 2022
 tags:
 - f
 date: "2023-01-08T00:00:00Z"

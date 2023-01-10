@@ -1,6 +1,6 @@
 ---
 title: "Multi-Class Mobile Money Service Financial Fraud Detection by Integrating Supervised Learning with Adversarial Autoencoders"
-summary: International Joint Conference on Neural Networks (IJCNN) 2021
+summary: International Joint Conference on Neural Networks 2021
 tags:
 - oa
 date: "2023-01-08T00:00:00Z"

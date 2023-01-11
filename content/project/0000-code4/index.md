@@ -1,6 +1,6 @@
 ---
 title: "The Robust Deep Learning Library"
-summary: A code project to train your model from scratch or fine-tune a pretrained model using the losses provided in this library to improve out-of-distribution detection and uncertainty estimation performances.
+summary: Deep Learning Code. A project to train your model from scratch or fine-tune a pretrained model using the losses provided in this library to improve out-of-distribution detection and uncertainty estimation performances.
 tags:
 - c
 date: "2023-01-10T00:00:00Z"

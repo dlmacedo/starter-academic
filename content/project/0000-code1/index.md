@@ -1,6 +1,6 @@
 ---
 title: "SVM-CNN"
-summary: A code project to build a feature extractor based on Tensorflow and Scikit-learn created to improve the accuracy of SVM to classify MNIST dataset fast and with more accuracy.
+summary: Deep Learning Code. A project to build a feature extractor based on Tensorflow and Scikit-learn created to improve the accuracy of SVM to classify MNIST dataset fast and with more accuracy.
 tags:
 - c
 date: "2023-01-10T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: "Distinction Maximization Loss"
-summary: A code project to improve out-of-distribution detection (open set recognition) and uncertainty estimation to your deep learning project.
+summary: Deep Learning Code. A project to improve out-of-distribution detection (open set recognition) and uncertainty estimation to your deep learning project.
 tags:
 - c
 date: "2023-01-10T00:00:00Z"

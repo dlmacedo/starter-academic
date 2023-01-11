@@ -26,8 +26,10 @@ interests:
 - Computer Vision
 - Natural Language Processing
 - Audio and Speech Processing
-- Tabular and Graph Data
+- Generative Models
+- Tabular Data
 - Time Series
+- Graph Data
 - Applications
 
 education:

@@ -26,10 +26,11 @@ interests:
 - Computer Vision
 - Natural Language Processing
 - Audio and Speech Processing
-- Time Series and Sequence Models
 - Tabular and Graph Data
-- Deep Generative Models
-- Other Applications
+- Generative Models
+- Sequence Models
+- Time Series
+- Applications
 
 education:
   courses:

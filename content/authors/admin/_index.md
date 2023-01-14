@@ -104,7 +104,7 @@ user_groups:
 - Visitors
 ---
 
-PhD in Computer Science (Deep Learning), Center of Informatics, Federal University of Pernambuco (UFPE), Brazil: "Towards Robust Deep Learning using Entropic Losses". Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Authored dozens of Machine Learning and Deep Learning papers in Conferences and Journals. Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil.
+PhD in Computer Science (Deep Learning), Center of Informatics, Federal University of Pernambuco (UFPE), Brazil: "Towards Robust Deep Learning using Entropic Losses". Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Authored dozens of Deep Learning papers in Conferences and Journals. Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil.
 
 https://arxiv.org/abs/2208.03566
 

@@ -22,7 +22,7 @@ weight: 80
 
 ### Slides (English)
 
-* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1F9ZxqoemySYvV-FRMHYyZCyKoCSdPazK/view?usp=sharing)
+* [Miscellaneous and Advanced Topics](https://drive.google.com/file/d/1xN4q3mSgszeiG1dtA6VPAhlPafX5la3a/view?usp=sharing)
 
 ### Code (Google Colab, Notebooks and More)
 

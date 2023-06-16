@@ -22,7 +22,7 @@ weight: 50
 
 ### Slides (English)
 
-* [Attention and Transformers](https://drive.google.com/file/d/1lUagztAbGaGcDP7e-4kXhIxSTW-3pYGC/view?usp=sharing)
+* [Attention and Transformers](https://drive.google.com/file/d/1U2z9JbWNeVAaTZhXKlrXlfFXriu8JMIp/view?usp=sharing)
 
 ### Code (Google Colab, Notebooks and More)
 

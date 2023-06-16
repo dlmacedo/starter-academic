@@ -22,9 +22,9 @@ weight: 10
 
 ### Slides (English)
 
-* [PyTorch](https://drive.google.com/file/d/12KgMRPqCFbWvODisRhmYlXNeNvapOA99/view?usp=sharing)
+* [PyTorch](https://drive.google.com/file/d/1EmHfvODW4iqkaAPEJKHGffu2OmCWM60l/view?usp=sharing)
 
-* [Desenvolvimento](https://drive.google.com/file/d/1sUJ4RATp_RvyGcp3A3Dzyk7Z5zZQGPS-/view?usp=sharing)
+* [Desenvolvimento](https://drive.google.com/file/d/1wQW8RwW5VcjA3FQOeU36Mf0FqUvxSmbw/view?usp=sharing)
 
 ### Code (Google Colab, Notebooks and More)
 

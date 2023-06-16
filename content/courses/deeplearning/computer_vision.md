@@ -22,7 +22,7 @@ weight: 60
 
 ### Slides (English)
 
-* [Computer Vision](https://drive.google.com/file/d/1Gwt1BWfY2qCrJkLB0heNPreSkBcfOVWw/view?usp=sharing)
+* [Computer Vision](https://drive.google.com/file/d/12qBoeZwn76HZI5XnUNye367VMprpIbUX/view?usp=sharing)
 
 ### Code (Google Colab, Notebooks and More)
 

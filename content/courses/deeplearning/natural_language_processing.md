@@ -22,7 +22,7 @@ weight: 70
 
 ### Slides (English)
 
-* [Natural Language Processing](https://drive.google.com/file/d/19ImNivJDMRRzTCyDS3NGm1JLH99Udprj/view?usp=sharing)
+* [Natural Language Processing](https://drive.google.com/file/d/1kVLuiU6mkWYF2lyAHMtZeG0rSX1wclNu/view?usp=sharing)
 
 ### Code (Google Colab, Notebooks and More)
 

@@ -22,7 +22,7 @@ weight: 20
 
 ### Slides (English)
 
-* [TensorFlow](https://drive.google.com/file/d/1Xp7H9VQ0p22QIuYB51ThKP3eBZfxwOrd/view?usp=sharing)
+* [TensorFlow](https://drive.google.com/file/d/1_s1U74md43kg6M3HAnjvc2ulcHRuuWO3/view?usp=sharing)
 
 ### Code (Google Colab, Notebooks and More)
 

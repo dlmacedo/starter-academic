@@ -26,10 +26,9 @@ interests:
 - Computer Vision
 - Natural Language Processing
 - Audio and Speech Processing
+- Time Series and Sequence Models
 - Tabular and Graph Data
-- Generative Models
-- Sequence Models
-- Time Series
+- Generative AI
 - Applications
 
 education:
@@ -104,24 +103,33 @@ user_groups:
 - Visitors
 ---
 
-PhD in Computer Science (Deep Learning), Center of Informatics, Federal University of Pernambuco (UFPE), Brazil: "Towards Robust Deep Learning using Entropic Losses". Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada. Authored dozens of Deep Learning papers in Conferences and Journals. Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil.
+Deep Learning Solutions Architect & Engineer. Tech Lead. AI Research and Development. 8 years of experience.
 
+PhD in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
+"Towards Robust Deep Learning using Entropic Losses".
 https://arxiv.org/abs/2208.03566
 
+Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 https://mila.quebec/en/person/david-macedo
 
+Authored dozens of Deep Learning papers in Conferences and Journals.
 https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
-Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer. NeurIPS Workshop on Machine Learning Safety Program Committee Member. ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member. ICLR Highlighted Reviewer and Complimentary Registration.
+Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer.
 
-https://neurips2022.mlsafety.org/
+NeurIPS Workshop on Machine Learning Safety Program Committee Member.
+ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member.
+ICLR Highlighted Reviewer and Complimentary Registration.
 
-https://sites.google.com/view/udlworkshop2021/
-
-https://iclr.cc/Conferences/2022/Reviewers
-
-Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. Participation in Research and Extension Projects. Co-orientation of Masters Dissertations.
-
+Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. 
 https://dlmacedo.com/courses/deeplearning/
 
-First Place in Admission Processes for Master of Science and Doctor of Philosophy in Computer Science at CIn/UFPE, Brazil. Computer Science Master [GPA 10.00/10.00] and Computer Science Ph.D. [GPA 10.00/10.00]. Electronic Engineering Bachelor with Highest Academic Distinction (Best Overall Student) [GPA 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process.
+Google Research Award: "Robust Deep Learning". UFPE, Brazil.
+
+Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil.
+
+Participation in Research and Extension Projects. Co-orientation of Masters Dissertations.
+
+MSc in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
+
+Electronic Engineering Bachelor with Highest Academic Distinction (Best Overall Student) [GPA 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process.

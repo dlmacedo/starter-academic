@@ -26,8 +26,10 @@ interests:
 - Computer Vision
 - Natural Language Processing
 - Audio and Speech Processing
-- Time Series and Sequence Models
-- Tabular and Graph Data
+- Tabular Data and Time Series
+- Graph Neural Networks
+- Large Language Models
+- Diffusion Models
 - Generative AI
 - Applications
 
@@ -117,18 +119,12 @@ https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
 Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer.
 
-NeurIPS Workshop on Machine Learning Safety Program Committee Member.
-ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member.
-ICLR Highlighted Reviewer and Complimentary Registration.
+NeurIPS Workshop on Machine Learning Safety Program Committee Member. ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member. ICLR Highlighted Reviewer and Complimentary Registration.
 
 Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. 
 https://dlmacedo.com/courses/deeplearning/
 
-Google Research Award: "Robust Deep Learning". UFPE, Brazil.
-
-Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil.
-
-Participation in Research and Extension Projects. Co-orientation of Masters Dissertations.
+Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil. Participation in Research and Extension Projects. Co-orientation of Masters Dissertations.
 
 MSc in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
 

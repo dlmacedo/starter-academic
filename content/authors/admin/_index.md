@@ -105,7 +105,7 @@ user_groups:
 - Visitors
 ---
 
-Deep Learning Solutions Architect & Engineer. Tech Lead. AI Research and Development. 8 years of experience.
+Deep Learning Solutions Architect & Engineer. AI Research and Development. Tech Lead.
 
 PhD in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process. "Towards Robust Deep Learning using Entropic Losses".
 https://arxiv.org/abs/2208.03566

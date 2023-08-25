@@ -107,8 +107,7 @@ user_groups:
 
 Deep Learning Solutions Architect & Engineer. Tech Lead. AI Research and Development. 8 years of experience.
 
-PhD in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
-"Towards Robust Deep Learning using Entropic Losses".
+PhD in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process. "Towards Robust Deep Learning using Entropic Losses".
 https://arxiv.org/abs/2208.03566
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.

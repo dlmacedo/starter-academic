@@ -66,15 +66,15 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2527-4548
-- icon: dblp
-  icon_pack: ai
-  link: https://dblp.org/pid/228/1710
-- icon: semantic-scholar
-  icon_pack: ai
-  link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/David_Macedo7
+#- icon: dblp
+#  icon_pack: ai
+#  link: https://dblp.org/pid/228/1710
+#- icon: semantic-scholar
+#  icon_pack: ai
+#  link: https://www.semanticscholar.org/author/David-Mac%C3%AAdo/51473026
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/David_Macedo7
 #- icon: lattes
 #  icon_pack: ai
 #  link: http://lattes.cnpq.br/4271819510740061

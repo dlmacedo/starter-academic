@@ -75,9 +75,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/David_Macedo7
-- icon: lattes
-  icon_pack: ai
-  link: http://lattes.cnpq.br/4271819510740061
+#- icon: lattes
+#  icon_pack: ai
+#  link: http://lattes.cnpq.br/4271819510740061
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/davidlopesmacedo

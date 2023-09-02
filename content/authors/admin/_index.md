@@ -27,6 +27,7 @@ interests:
 - Natural Language Processing
 - Audio and Speech Processing
 - Tabular Data and Time Series
+- Attention and Transformers
 - Graph Neural Networks
 - Large Language Models
 - Diffusion Models
@@ -105,7 +106,7 @@ user_groups:
 - Visitors
 ---
 
-Deep Learning Solutions Architect and Engineer. AI Research and Development. Tech Lead.
+Deep Learning Tech Lead. Machine Learning Architect and Engineer. AI Researcher. Generative AI. MLOps.
 
 PhD in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process. "Towards Robust Deep Learning using Entropic Losses".
 https://arxiv.org/abs/2208.03566
@@ -116,9 +117,7 @@ https://mila.quebec/en/person/david-macedo
 Authored dozens of Deep Learning papers in Conferences and Journals.
 https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
-Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer.
-
-NeurIPS Workshop on Machine Learning Safety Program Committee Member. ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member. ICLR Highlighted Reviewer and Complimentary Registration.
+Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer. NeurIPS Workshop on Machine Learning Safety Program Committee Member. ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member. ICLR Highlighted Reviewer and Complimentary Registration.
 
 Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. 
 https://dlmacedo.com/courses/deeplearning/

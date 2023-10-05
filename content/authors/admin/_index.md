@@ -107,17 +107,21 @@ user_groups:
 ---
 
 PhD in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process. "Towards Robust Deep Learning using Entropic Losses".
+
 https://arxiv.org/abs/2208.03566
 
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
+
 https://mila.quebec/en/person/david-macedo
 
 Authored one book and around fifty articles on Deep Learning published in Top Conferences and Journals.
+
 https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
 Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer. NeurIPS Workshop on Machine Learning Safety Program Committee Member. ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member. ICLR Highlighted Reviewer and Complimentary Registration.
 
 Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. 
+
 https://dlmacedo.com/courses/deeplearning/
 
 Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil. Participation in Research and Extension Projects. Co-orientation of Masters Dissertations.

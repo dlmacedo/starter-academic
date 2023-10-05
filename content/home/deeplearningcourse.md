@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 150  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Deep Learning Course"
 subtitle = ""
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to our **Deep Learning Course**!!!
+Welcome to our Deep Learning Course!
 
 Follow the [Deep Learning Course](courses/deeplearning/) for lecture videos (portuguese) and slides (english), codes, and additional resorces.
 

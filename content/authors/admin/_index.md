@@ -63,9 +63,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dlmacedo
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-2527-4548
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-2527-4548
 #- icon: dblp
 #  icon_pack: ai
 #  link: https://dblp.org/pid/228/1710
@@ -112,7 +112,7 @@ https://arxiv.org/abs/2208.03566
 Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), University of Montreal (UdeM), Quebec, Canada.
 https://mila.quebec/en/person/david-macedo
 
-Authored around fifty articles on Deep Learning published in Top Conferences and Journals.
+Authored one book and around fifty articles on Deep Learning published in Top Conferences and Journals.
 https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
 Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer. NeurIPS Workshop on Machine Learning Safety Program Committee Member. ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member. ICLR Highlighted Reviewer and Complimentary Registration.

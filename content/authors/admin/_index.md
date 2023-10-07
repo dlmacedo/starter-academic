@@ -78,9 +78,9 @@ social:
 #- icon: lattes
 #  icon_pack: ai
 #  link: http://lattes.cnpq.br/4271819510740061
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/davidlopesmacedo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/davidlopesmacedo
 #- icon: publons
 #  icon_pack: ai
 #  link: https://publons.com/researcher/3044411/david-macedo

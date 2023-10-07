@@ -59,7 +59,7 @@ social:
   link: https://twitter.com/david_macedo
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=brurqxoAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/dlmacedo

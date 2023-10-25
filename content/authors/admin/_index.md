@@ -100,6 +100,7 @@ social:
 # PC member and Reviewer of ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning.
 #[PhD thesis](https://drive.google.com/file/d/1xUpjadWaeGWzuNzaGnBkQ4ieNKkvmOZf/view?usp=sharing)
 #[TOWARDS ROBUST DEEP LEARNING USING ENTROPIC LOSSES](https://drive.google.com/file/d/1dq1o7KqH_UEO5tt6YDx2Z2Hr8rVJkQzD/view?usp=sharing)
+# NeurIPS Workshop on Machine Learning Safety Program Committee Member. ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member. ICLR Highlighted Reviewer and Complimentary Registration.
 
 user_groups:
 - Researchers
@@ -114,17 +115,27 @@ Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), Univ
 
 https://mila.quebec/en/person/david-macedo
 
-Authored one book and around fifty articles on Deep Learning published in Top Conferences and Journals.
+Authored one book and around fifty articles on Deep Learning published in Top Conferences and Journals. More than a half thousand citations.
 
 https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
-Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer. NeurIPS Workshop on Machine Learning Safety Program Committee Member. ICML Workshop on Uncertainty & Robustness in Deep Learning Program Committee Member. ICLR Highlighted Reviewer and Complimentary Registration.
+Top Main Conferences (NeurIPS, ICLR, ICML) and IEEE Reviewer. 
+
+https://neurips.cc/Conferences/2022/ProgramCommittee
+
+https://iclr.cc/Conferences/2022/Reviewers
+
+https://icml.cc/Conferences/2022/Reviewers
 
 Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. 
 
 https://dlmacedo.com/courses/deeplearning/
 
-Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil. Participation in Research and Extension Projects. Co-orientation of Masters Dissertations.
+Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil. Participation in more than a hundred Research and Extension Projects. Co-orientation of Masters Dissertations.
+
+https://deeplearning.cin.ufpe.br/
+
+https://deeplearning.cin.ufpe.br/research/
 
 MSc in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
 

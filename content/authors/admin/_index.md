@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Macêdo
+title: David Macêdo, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -107,7 +107,7 @@ user_groups:
 - Visitors
 ---
 
-PhD in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process. "Towards Robust Deep Learning using Entropic Losses".
+Doctor of Philosophy (PhD) in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process. "Towards Robust Deep Learning using Entropic Losses".
 
 https://arxiv.org/abs/2208.03566
 
@@ -131,12 +131,12 @@ Co-creator and Collaborator Professor of the Deep Learning course of the Compute
 
 https://dlmacedo.com/courses/deeplearning/
 
-Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil. Participation in more than a hundred Research and Extension Projects. Co-orientation of Masters Dissertations.
+Participation in more than a hundred Research and Extension Projects. Google Research Award: "Robust Deep Learning". UFPE, Brazil. Microsoft Research Award: "Deep Learning for Speaker Recognition". UFPE, Brazil. Co-orientation of Masters Dissertations.
 
 https://deeplearning.cin.ufpe.br/
 
 https://deeplearning.cin.ufpe.br/research/
 
-MSc in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
+Master of Science (MSc) in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
 
-Electronic Engineering Bachelor with Highest Academic Distinction (Best Overall Student) [GPA 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process.
+Bachelor of Science (BSc) in Electronic Engineering with Highest Academic Distinction (Best Overall Student) [GPA 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process.

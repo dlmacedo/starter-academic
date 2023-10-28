@@ -30,7 +30,7 @@ interests:
 - Attention and Transformers
 - Graph Neural Networks
 - Large Language Models
-- Foundations Models
+- Foundation Models
 - Diffusion Models
 - Generative AI
 - Applications

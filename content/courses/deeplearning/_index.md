@@ -43,17 +43,15 @@ menu:
 
 ### Learn More
 
-* [Dive into Deep Learning](https://d2l.ai)
-
 * [Deep Learning Book](https://www.deeplearningbook.org)
 
-* [Fast AI (PyTorch)](https://www.fast.ai)
+* [Dive into Deep Learning](https://d2l.ai)
 
-* [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 
-* [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
-* [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning)
 
 ### Additional Resources
 

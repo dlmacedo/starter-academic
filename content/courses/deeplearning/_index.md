@@ -47,18 +47,10 @@ menu:
 
 * [Dive into Deep Learning](https://d2l.ai)
 
-* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+* [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
 
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
-* [Machine Learning Crash Course](https://developers.google.com/machine-learning)
-
-### Additional Resources
-
-* [Papers and Codes](papers_codes)
-
-* [Software Libraries](software_libraries)
-
-* [Software Development](software_development)
+* [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/)
 
 {{< figure library="true" src="ufpe-cin-cin-ai.png" >}}

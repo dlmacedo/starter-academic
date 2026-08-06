@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Deep Learning Course"
+title = "Artificial Intelligence Course"
 subtitle = ""
 
 [design]
@@ -50,9 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to our Deep Learning Course!
+Welcome to our Artificial Intelligence Course!
 
-Follow the [Deep Learning Course](courses/deeplearning/) for lecture videos (portuguese) and slides (english), codes, and additional resorces.
+Follow the [Artificial Intelligence Course](courses/deeplearning/) for lecture videos (portuguese) and slides (english), codes, and additional resorces.
 
 This is the syllabus for the course:
 

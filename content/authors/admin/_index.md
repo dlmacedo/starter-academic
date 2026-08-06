@@ -10,8 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Deep Learning
-#role: Machine Learning Engineer, Deep Learning Specialist
+role: Senior AI Research Scientist & Engineer. Tech Lead 
+#role: Senior AI Research Scientist & Engineer. Tech Lead
 
 # Organizations/Affiliations
 #organizations:
@@ -19,11 +19,11 @@ role: Deep Learning
 #  url: "https://dlmacedo.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include everything related to deep learning.
+bio: My interests include everything related to AI.
 
 interests:
-- Deep Learning
-- Computer Vision
+- Artificial Intelligence (AI)
+- Computer Vision and Understanding
 - Natural Language Processing
 - Audio and Speech Processing
 - Tabular Data and Time Series
@@ -37,10 +37,10 @@ interests:
 
 education:
   courses:
-  - course: PhD Computer Science (Deep Learning) [GPA 10.0/10.00]
+  - course: PhD Computer Science (Artificial Intelligence) [GPA 10.0/10.00]
     institution: Universidade Federal de Pernambuco (First Place in the Admission Process)
     year: 2022
-  - course: MSc Computer Science (Deep Learning) [GPA 10.0/10.00]
+  - course: MSc Computer Science (Artificial Intelligence) [GPA 10.0/10.00]
     institution: Universidade Federal de Pernambuco (First Place in the Admission Process)
     year: 2018
   - course: BSc Eletronic Engineering [GPA 9.56/10.00] with Highest Academic Distinction (Best Overall Student)
@@ -108,7 +108,7 @@ user_groups:
 - Visitors
 ---
 
-Doctor of Philosophy (PhD) in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process. "Towards Robust Deep Learning using Entropic Losses".
+Doctor of Philosophy (PhD) in Computer Science (Artificial Intelligence) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process. "Towards Robust Deep Learning using Entropic Losses".
 
 https://arxiv.org/abs/2208.03566
 
@@ -116,7 +116,7 @@ Visiting Researcher with Montreal Institute for Learning Algorithms (MILA), Univ
 
 https://mila.quebec/en/person/david-macedo
 
-Authored one book and around fifty articles on Deep Learning published in Top Conferences and Journals. More than a half thousand citations.
+Authored one book and around fifty articles on Artificial Intelligence published in Top Conferences and Journals. More than a half thousand citations.
 
 https://scholar.google.com/citations?user=hypWII4AAAAJ&hl=en
 
@@ -128,7 +128,7 @@ https://iclr.cc/Conferences/2022/Reviewers
 
 https://icml.cc/Conferences/2022/Reviewers
 
-Co-creator and Collaborator Professor of the Deep Learning course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. 
+Co-creator and Collaborator Professor of the Artificial Intelligence course of the Computer Science Master and Doctorate Programs at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), Brazil. 
 
 https://dlmacedo.com/courses/deeplearning/
 
@@ -138,6 +138,6 @@ https://deeplearning.cin.ufpe.br/
 
 https://deeplearning.cin.ufpe.br/research/
 
-Master of Science (MSc) in Computer Science (Deep Learning) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
+Master of Science (MSc) in Computer Science (Artificial Intelligence) [GPA 10.00/10.00], Center of Informatics, Federal University of Pernambuco (UFPE), Brazil. First Place in the Admission Process.
 
 Bachelor of Science (BSc) in Electronic Engineering with Highest Academic Distinction (Best Overall Student) [GPA 9,54/10,00] from UFPE, Brazil. First Place in the Admission Process.

@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Deep Learning Course
-summary: Learn how Deep Learning is changing our world!
+linktitle: DArtificial Intelligence Course
+summary: Learn how Artificial Intelligence is changing our world!
 weight: 1
 
 # Page metadata.
-title: Deep Learning
+title: Artificial Intelligence
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Deep Learning Course
+    name: Artificial Intelligence Course
     weight: 1
 ---
 

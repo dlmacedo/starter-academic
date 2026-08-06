@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: DArtificial Intelligence Course
+linktitle: Artificial Intelligence Course
 summary: Learn how Artificial Intelligence is changing our world!
 weight: 1
 
